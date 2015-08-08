@@ -1,0 +1,119 @@
+Constituency	Gender	Year
+Aberdeen North	f	2015
+Aberdeen South	m	2015
+Airdrie & Shotts	m	2015
+Angus	m	2015
+Argyll & Bute	m	2015
+Ayr, Carrick & Cumnock	f	2015
+Banff & Buchan	f	2015
+Berwickshire, Roxburgh & Selkirk	m	2015
+Caithness, Sutherland & Easter Ross	m	2015
+Ayrshire Central	f	2015
+Coatbridge, Chryston & Bellshill	m	2015
+Cumbernauld, Kilsyth & Kirkintilloch East	m	2015
+Dumfries & Galloway	m	2015
+Dundee East	m	2015
+Dundee West	m	2015
+Dunfermline & Fife West	m	2015
+East Kilbride, Strathaven & Lesmahagow	f	2015
+East Lothian	m	2015
+Dunbartonshire East	m	2015
+Renfrewshire East	f	2015
+Edinburgh North & Leith	f	2015
+Edinburgh South West	f	2015
+Edinburgh East	m	2015
+Edinburgh West	f	2015
+Falkirk	m	2015
+Glasgow North	m	2015
+Glasgow South	m	2015
+Glasgow East	f	2015
+Glasgow North East	f	2015
+Glasgow North West	f	2015
+Glasgow South West	m	2015
+Glasgow Central	f	2015
+Glenrothes	m	2015
+Gordon	m	2015
+Inverclyde	m	2015
+Inverness, Nairn, Badenoch & Strathspey	m	2015
+Kilmarnock & Loudoun	m	2015
+Kirkcaldy & Cowdenbeath	m	2015
+Lanark & Hamilton East	f	2015
+Linlithgow & Falkirk East	m	2015
+Livingston	f	2015
+Midlothian	m	2015
+Moray	m	2015
+Motherwell & Wishaw	f	2015
+Na h-Eileanan an Iar (Western Isles)	m	2015
+Fife North East	m	2015
+Ayrshire North & Arran	f	2015
+Ochil & South Perthshire	f	2015
+Paisley & Renfrewshire North	f	2015
+Paisley & Renfrewshire South	m	2015
+Perth & North Perthshire	m	2015
+Ross, Skye & Lochaber	m	2015
+Rutherglen & Hamilton West	f	2015
+Stirling	m	2015
+Dunbartonshire West	m	2015
+Aberdeenshire West & Kincardine	m	2015
+Dumfriesshire, Clydesdale & Tweeddale	m	2015
+Edinburgh South	m	2015
+Orkney & Shetland	m	2015
+Aberdeen North	m	2010
+Aberdeen South	f	2010
+Aberdeenshire West & Kincardine	m	2010
+Airdrie & Shotts	f	2010
+Angus	m	2010
+Argyll & Bute	m	2010
+Ayr, Carrick & Cumnock	f	2010
+Ayrshire Central	m	2010
+Ayrshire North & Arran	f	2010
+Banff & Buchan	f	2010
+Berwickshire, Roxburgh & Selkirk	m	2010
+Caithness, Sutherland & Easter Ross	m	2010
+Coatbridge, Chryston & Bellshill	m	2010
+Cumbernauld, Kilsyth & Kirkintilloch East	m	2010
+Dumfries & Galloway	m	2010
+Dumfriesshire, Clydesdale & Tweeddale	m	2010
+Dunbartonshire East	f	2010
+Dunbartonshire West	f	2010
+Dundee East	m	2010
+Dundee West	m	2010
+Dunfermline & Fife West	m	2010
+East Kilbride, Strathaven & Lesmahagow	m	2010
+East Lothian	f	2010
+Edinburgh East	f	2010
+Edinburgh North & Leith	m	2010
+Edinburgh South	m	2010
+Edinburgh South West	m	2010
+Edinburgh West	m	2010
+Falkirk	m	2010
+Fife North East	m	2010
+Glasgow Central	m	2010
+Glasgow East	f	2010
+Glasgow North	f	2010
+Glasgow North East	m	2010
+Glasgow North West	m	2010
+Glasgow South	m	2010
+Glasgow South West	m	2010
+Glenrothes	m	2010
+Gordon	m	2010
+Inverclyde	m	2010
+Inverness, Nairn, Badenoch & Strathspey	m	2010
+Kilmarnock & Loudoun	f	2010
+Kirkcaldy & Cowdenbeath	m	2010
+Lanark & Hamilton East	m	2010
+Linlithgow & Falkirk East	m	2010
+Livingston	m	2010
+Midlothian	m	2010
+Moray	m	2010
+Motherwell & Wishaw	m	2010
+Na h-Eileanan an Iar (Western Isles)	m	2010
+Ochil & South Perthshire	m	2010
+Orkney & Shetland	m	2010
+Paisley & Renfrewshire North	m	2010
+Paisley & Renfrewshire South	m	2010
+Perth & North Perthshire	m	2010
+Renfrewshire East	m	2010
+Ross, Skye & Lochaber	m	2010
+Rutherglen & Hamilton West	m	2010
+Stirling	f	2010

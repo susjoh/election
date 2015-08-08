@@ -1,0 +1,3895 @@
+Constituency	x	y	order
+Aberavon	471.5	1428.815	1
+Aberconwy	509	1104.05	1
+Aberdeen North	734	151.406	1
+Aberdeen South	771.5	173.057	1
+Aberdeenshire West & Kincardine	696.5	173.057	1
+Airdrie & Shotts	659	367.916	1
+Aldershot	771.5	1688.627	1
+Aldridge-Brownhills	809	1060.748	1
+Altrincham & Sale West	734	887.54	1
+Alyn & Deeside	584	1060.748	1
+Amber Valley	959	1060.748	1
+Angus	734	194.708	1
+Antrim East	209	671.03	1
+Antrim North	171.5	649.379	1
+Arfon	134	671.03	1
+Argyll & Bute	471.5	1125.701	1
+Arundel & South Downs	546.5	216.359	1
+Ashfield	1071.5	1688.627	1
+Ashford	996.5	1039.097	1
+Ashton Under Lyne	1296.5	1645.325	1
+Aylesbury	809	800.936	1
+Ayr, Carrick & Cumnock	734	1493.768	1
+Ayrshire Central	584	497.822	1
+Ayrshire North & Arran	546.5	476.171	1
+Banbury	546.5	432.869	1
+Banff & Buchan	734	1407.164	1
+Barking	696.5	129.755	1
+Barnsley Central	1259	1493.768	1
+Barnsley East	921.5	909.191	1
+Barrow & Furness	959	887.54	1
+Basildon & Billericay	696.5	649.379	1
+Basildon South & Thurrock East	1296.5	1428.815	1
+Basingstoke	1334	1450.466	1
+Bassetlaw	734	1710.278	1
+Bath	1071.5	995.795	1
+Batley & Spen	621.5	1602.023	1
+Battersea	921.5	822.587	1
+Beaconsfield	996.5	1558.721	1
+Beckenham	809	1450.466	1
+Bedford	1109	1623.674	1
+Bedfordshire Mid	921.5	1255.607	1
+Bedfordshire North East	846.5	1342.211	1
+Bedfordshire South West	884	1277.258	1
+Belfast East	846.5	1385.513	1
+Belfast North	171.5	735.983	1
+Belfast South	171.5	692.681	1
+Belfast West	134	757.634	1
+Bermondsey & Old Southwark	134	714.332	1
+Berwickshire, Roxburgh & Selkirk	1071.5	1515.419	1
+Berwick-upon-Tweed	734	454.52	1
+Bethnal Green & Bow	771.5	476.171	1
+Beverley & Holderness	1146.5	1472.117	1
+Bexhill & Battle	1146.5	822.587	1
+Bexleyheath & Crayford	1259	1666.976	1
+Birkenhead	1184	1580.372	1
+Birmingham Edgbaston	546.5	909.191	1
+Birmingham Erdington	659	1320.56	1
+Birmingham Hall Green	771.5	1125.701	1
+Birmingham Hodge Hill	734	1277.258	1
+Birmingham Ladywood	771.5	1169.003	1
+Birmingham Northfield	734	1233.956	1
+Birmingham Perry Barr	696.5	1298.909	1
+Birmingham Selly Oak	734	1190.654	1
+Birmingham Yardley	696.5	1212.305	1
+Bishop Auckland	771.5	1212.305	1
+Blackburn	884	627.728	1
+Blackley & Broughton	734	671.03	1
+Blackpool North & Cleveleys	771.5	779.285	1
+Blackpool South	659	671.03	1
+Blaenau Gwent	621.5	692.681	1
+Blaydon	584	1320.56	1
+Blyth Valley	771.5	562.775	1
+Bognor Regis & Littlehampton	846.5	476.171	1
+Bolsover	1034	1710.278	1
+Bolton North East	996.5	995.795	1
+Bolton South East	734	714.332	1
+Bolton West	734	757.634	1
+Bootle	696.5	735.983	1
+Boston & Skegness	509	930.842	1
+Bosworth	1146.5	1125.701	1
+Bournemouth East	884	1147.352	1
+Bournemouth West	621.5	1731.929	1
+Bracknell	621.5	1688.627	1
+Bradford East	771.5	1602.023	1
+Bradford South	921.5	735.983	1
+Bradford West	884	800.936	1
+Braintree	884	757.634	1
+Brecon & Radnorshire	1221.5	1342.211	1
+Brent Central	584	1233.956	1
+Brent North	996.5	1385.513	1
+Brentford & Isleworth	959	1407.164	1
+Brentwood & Ongar	921.5	1472.117	1
+Bridgend	1184	1363.862	1
+Bridgwater & Somerset West	471.5	1515.419	1
+Brigg & Goole	434	1710.278	1
+Brighton Kemptown	1071.5	909.191	1
+Brighton Pavilion	1184	1710.278	1
+Bristol East	1146.5	1688.627	1
+Bristol North West	584	1580.372	1
+Bristol South	546.5	1602.023	1
+Bristol West	546.5	1645.325	1
+Broadland	584	1623.674	1
+Bromley & Chislehurst	1221.5	1212.305	1
+Bromsgrove	1146.5	1558.721	1
+Broxbourne	734	1320.56	1
+Broxtowe	1071.5	1298.909	1
+Buckingham	1034	1060.748	1
+Burnley	846.5	1428.815	1
+Burton	846.5	735.983	1
+Bury North	809	974.144	1
+Bury South	771.5	692.681	1
+Bury St Edmunds	771.5	735.983	1
+Caerphilly	1221.5	1298.909	1
+Caithness, Sutherland & Easter Ross	584	1407.164	1
+Calder Valley	584	108.104	1
+Camberwell & Peckham	884	887.54	1
+Camborne & Redruth	1109	1537.07	1
+Cambridge	246.5	1861.835	1
+Cambridgeshire North East	1146.5	1298.909	1
+Cambridgeshire North West	1146.5	1212.305	1
+Cambridgeshire South	996.5	1212.305	1
+Cambridgeshire South East	1034	1233.956	1
+Cannock Chase	1184	1320.56	1
+Canterbury	771.5	1082.399	1
+Cardiff Central	1409	1580.372	1
+Cardiff North	546.5	1428.815	1
+Cardiff South & Penarth	584	1450.466	1
+Cardiff West	546.5	1472.117	1
+Carlisle	509	1450.466	1
+Carmarthen East & Dinefwr	734	584.426	1
+Carmarthen West & Pembrokeshire South	434	1407.164	1
+Carshalton & Wallington	359	1450.466	1
+Castle Point	996.5	1645.325	1
+Ceredigion	1371.5	1472.117	1
+Charnwood	584	1277.258	1
+Chatham & Aylesford	996.5	1125.701	1
+Cheadle	1334	1580.372	1
+Chelmsford	771.5	909.191	1
+Chelsea & Fulham	1259	1407.164	1
+Cheltenham	996.5	1515.419	1
+Chesham & Amersham	696.5	1428.815	1
+Chester, City of	771.5	1428.815	1
+Chesterfield	584	1017.446	1
+Chichester	959	1017.446	1
+Chingford & Woodford Green	996.5	1731.929	1
+Chippenham	1184	1407.164	1
+Chipping Barnet	621.5	1645.325	1
+Chorley	1034	1320.56	1
+Christchurch	659	714.332	1
+Cities of London & Westminster	659	1753.58	1
+Clacton	1034	1493.768	1
+Cleethorpes	1371.5	1342.211	1
+Clwyd South	1146.5	995.795	1
+Clwyd West	584	1147.352	1
+Coatbridge, Chryston & Bellshill	546.5	1125.701	1
+Colchester	621.5	389.567	1
+Colne Valley	1259	1363.862	1
+Congleton	884	930.842	1
+Copeland	771.5	952.493	1
+Corby	696.5	606.077	1
+Cornwall North	1034	1147.352	1
+Cornwall South East	321.5	1818.533	1
+Cotswolds, The	321.5	1861.835	1
+Coventry North East	696.5	1472.117	1
+Coventry North West	846.5	1125.701	1
+Coventry South	846.5	1169.003	1
+Crawley	809	1190.654	1
+Crewe & Nantwich	996.5	1688.627	1
+Croydon Central	696.5	952.493	1
+Croydon North	1071.5	1645.325	1
+Croydon South	1034	1623.674	1
+Cumbernauld, Kilsyth & Kirkintilloch East	1034	1666.976	1
+Cynon Valley	621.5	259.661	1
+Dagenham & Rainham	546.5	1385.513	1
+Darlington	1259	1537.07	1
+Dartford	959	627.728	1
+Daventry	1259	1580.372	1
+Delyn	846.5	1212.305	1
+Denton & Reddish	546.5	1039.097	1
+Derby North	809	844.238	1
+Derby South	884	1060.748	1
+Derbyshire Dales	921.5	1082.399	1
+Derbyshire Mid	884	1017.446	1
+Derbyshire North East	921.5	1039.097	1
+Derbyshire South	921.5	995.795	1
+Devizes	884	1104.05	1
+Devon Central	659	1666.976	1
+Devon East	396.5	1775.231	1
+Devon North	471.5	1775.231	1
+Devon South West	396.5	1731.929	1
+Devon West & Torridge	396.5	1861.835	1
+Dewsbury	359	1796.882	1
+Don Valley	959	844.238	1
+Doncaster Central	1034	887.54	1
+Doncaster North	1071.5	865.889	1
+Dorset Mid & Poole North	1071.5	822.587	1
+Dorset North	546.5	1731.929	1
+Dorset South	584	1710.278	1
+Dorset West	584	1796.882	1
+Dover	546.5	1775.231	1
+Down North	1371.5	1645.325	1
+Down South	209	757.634	1
+Dudley North	171.5	822.587	1
+Dudley South	659	1147.352	1
+Dulwich & West Norwood	659	1190.654	1
+Dumfries & Galloway	1071.5	1558.721	1
+Dumfriesshire, Clydesdale & Tweeddale	621.5	519.473	1
+Dunbartonshire East	696.5	519.473	1
+Dunbartonshire West	584	281.312	1
+Dundee East	584	238.01	1
+Dundee West	696.5	216.359	1
+Dunfermline & Fife West	734	238.01	1
+Durham, City of	696.5	259.661	1
+Durham North	884	584.426	1
+Durham North West	846.5	606.077	1
+Dwyfor Meirionnydd	809	584.426	1
+Ealing Central & Acton	509	1147.352	1
+Ealing North	921.5	1428.815	1
+Ealing Southall	884	1450.466	1
+Easington	884	1493.768	1
+East Ham	959	541.124	1
+East Kilbride, Strathaven & Lesmahagow	1221.5	1472.117	1
+East Lothian	584	454.52	1
+Eastbourne	771.5	389.567	1
+Eastleigh	1259	1710.278	1
+Eddisbury	809	1753.58	1
+Edinburgh East	621.5	995.795	1
+Edinburgh North & Leith	734	367.916	1
+Edinburgh South	734	411.218	1
+Edinburgh South West	696.5	432.869	1
+Edinburgh West	696.5	389.567	1
+Edmonton	696.5	346.265	1
+Ellesmere Port & Neston	1146.5	1385.513	1
+Elmet & Rothwell	546.5	952.493	1
+Eltham	996.5	692.681	1
+Enfield North	1184	1537.07	1
+Enfield Southgate	1109	1363.862	1
+Epping Forest	1071.5	1342.211	1
+Epsom & Ewell	1146.5	1342.211	1
+Erewash	921.5	1645.325	1
+Erith & Thamesmead	996.5	1082.399	1
+Esher & Walton	1221.5	1558.721	1
+Exeter	846.5	1602.023	1
+Falkirk	434	1796.882	1
+Fareham	659	281.312	1
+Faversham & Kent Mid	846.5	1775.231	1
+Feltham & Heston	1334	1623.674	1
+Fermanagh & South Tyrone	884	1537.07	1
+Fife North East	59	714.332	1
+Filton & Bradley Stoke	771.5	259.661	1
+Finchley & Golders Green	584	1537.07	1
+Folkestone & Hythe	1034	1363.862	1
+Forest of Dean	1334	1666.976	1
+Foyle	621.5	1472.117	1
+Fylde	96.5	649.379	1
+Gainsborough	621.5	735.983	1
+Garston & Halewood	1146.5	1039.097	1
+Gateshead	621.5	952.493	1
+Gedling	884	541.124	1
+Gillingham & Rainham	1109	1060.748	1
+Glasgow Central	1371.5	1602.023	1
+Glasgow East	584	367.916	1
+Glasgow North	621.5	346.265	1
+Glasgow North East	584	324.614	1
+Glasgow North West	621.5	302.963	1
+Glasgow South	546.5	302.963	1
+Glasgow South West	621.5	432.869	1
+Glenrothes	546.5	346.265	1
+Gloucester	734	281.312	1
+Gordon	659	1493.768	1
+Gosport	659	151.406	1
+Gower	884	1753.58	1
+Grantham & Stamford	396.5	1472.117	1
+Gravesham	1109	1190.654	1
+Great Grimsby	1296.5	1558.721	1
+Great Yarmouth	1296.5	1255.607	1
+Greenwich & Woolwich	1184	1493.768	1
+Guildford	1146.5	952.493	1
+Hackney North & Stoke Newington	884	1666.976	1
+Hackney South & Shoreditch	1071.5	1428.815	1
+Halesowen & Rowley Regis	1109	1450.466	1
+Halifax	696.5	1255.607	1
+Haltemprice & Howden	884	844.238	1
+Halton	1109	800.936	1
+Hammersmith	659	930.842	1
+Hampshire East	959	1537.07	1
+Hampshire North East	921.5	1688.627	1
+Hampshire North West	771.5	1645.325	1
+Hampstead & Kilburn	696.5	1645.325	1
+Harborough	959	1450.466	1
+Harlow	959	1190.654	1
+Harrogate & Knaresborough	1109	1320.56	1
+Harrow East	1034	671.03	1
+Harrow West	959	1363.862	1
+Hartlepool	921.5	1385.513	1
+Harwich & Essex North	996.5	562.775	1
+Hastings & Rye	1296.5	1342.211	1
+Havant	1296.5	1688.627	1
+Hayes & Harlington	959	1710.278	1
+Hazel Grove	846.5	1515.419	1
+Hemel Hempstead	846.5	952.493	1
+Hemsworth	1071.5	1255.607	1
+Hendon	1071.5	779.285	1
+Henley	996.5	1342.211	1
+Hereford & Herefordshire South	771.5	1385.513	1
+Herefordshire North	659	1407.164	1
+Hertford & Stortford	621.5	1298.909	1
+Hertfordshire North East	1109	1277.258	1
+Hertfordshire South West	1109	1233.956	1
+Hertsmere	884	1363.862	1
+Hexham	959	1320.56	1
+Heywood & Middleton	771.5	519.473	1
+High Peak	809	714.332	1
+Hitchin & Harpenden	884	974.144	1
+Holborn & St Pancras	959	1277.258	1
+Hornchurch & Upminster	1034	1450.466	1
+Hornsey & Wood Green	1296.5	1515.419	1
+Horsham	996.5	1428.815	1
+Houghton & Sunderland South	1109	1666.976	1
+Hove	921.5	562.775	1
+Huddersfield	1146.5	1731.929	1
+Hull East	921.5	865.889	1
+Hull North	1109	887.54	1
+Hull West & Hessle	1109	844.238	1
+Huntingdon	1109	930.842	1
+Hyndburn	959	1233.956	1
+Ilford North	809	671.03	1
+Ilford South	1221.5	1428.815	1
+Inverclyde	1259	1450.466	1
+Inverness, Nairn, Badenoch & Strathspey	509	324.614	1
+Ipswich	621.5	173.057	1
+Isle of Wight	1296.5	1298.909	1
+Islington North	771.5	1818.533	1
+Islington South & Finsbury	1034	1407.164	1
+Islwyn	1071.5	1472.117	1
+Jarrow	584	1363.862	1
+Keighley	884	497.822	1
+Kenilworth & Southam	884	714.332	1
+Kensington	771.5	1298.909	1
+Kettering	959	1493.768	1
+Kilmarnock & Loudoun	996.5	1169.003	1
+Kingston & Surbiton	621.5	476.171	1
+Kingswood	884	1623.674	1
+Kirkcaldy & Cowdenbeath	621.5	1558.721	1
+Knowsley	696.5	302.963	1
+Lagan Valley	621.5	865.889	1
+Lanark & Hamilton East	171.5	779.285	1
+Lancashire West	659	454.52	1
+Lancaster & Fleetwood	621.5	779.285	1
+Leeds Central	809	627.728	1
+Leeds East	921.5	779.285	1
+Leeds North East	1034	800.936	1
+Leeds North West	996.5	779.285	1
+Leeds West	959	757.634	1
+Leicester East	959	714.332	1
+Leicester South	959	1147.352	1
+Leicester West	921.5	1212.305	1
+Leicestershire North West	921.5	1169.003	1
+Leicestershire South	921.5	1125.701	1
+Leigh	884	1190.654	1
+Lewes	659	844.238	1
+Lewisham Deptford	1221.5	1688.627	1
+Lewisham East	1146.5	1515.419	1
+Lewisham West & Penge	1109	1580.372	1
+Leyton & Wanstead	1071.5	1602.023	1
+Lichfield	1146.5	1428.815	1
+Lincoln	809	1017.446	1
+Linlithgow & Falkirk East	1109	1104.05	1
+Liverpool Riverside	659	324.614	1
+Liverpool Walton	584	974.144	1
+Liverpool Wavertree	584	844.238	1
+Liverpool West Derby	584	930.842	1
+Livingston	584	887.54	1
+Llanelli	696.5	476.171	1
+Londonderry East	396.5	1428.815	1
+Loughborough	134	627.728	1
+Louth & Horncastle	959	1104.05	1
+Ludlow	1146.5	1082.399	1
+Luton North	621.5	1212.305	1
+Luton South	884	1320.56	1
+Macclesfield	921.5	1298.909	1
+Maidenhead	809	930.842	1
+Maidstone & The Weald	771.5	1558.721	1
+Makerfield	1296.5	1602.023	1
+Maldon	659	800.936	1
+Manchester Central	1371.5	1385.513	1
+Manchester Gorton	771.5	822.587	1
+Manchester Withington	696.5	822.587	1
+Mansfield	771.5	865.889	1
+Meon Valley	1034	974.144	1
+Meriden	846.5	1731.929	1
+Merthyr Tydfil & Rhymney	809	1147.352	1
+Middlesbrough	546.5	1342.211	1
+Middlesbrough South & Cleveland East	996.5	606.077	1
+Midlothian	1034	627.728	1
+Milton Keynes North	734	497.822	1
+Milton Keynes South	809	1363.862	1
+Mitcham & Morden	809	1407.164	1
+Mole Valley	959	1623.674	1
+Monmouth	846.5	1645.325	1
+Montgomeryshire	621.5	1385.513	1
+Moray	584	1190.654	1
+Morecambe & Lunesdale	659	194.708	1
+Morley & Outwood	734	627.728	1
+Motherwell & Wishaw	996.5	822.587	1
+Na h-Eileanan an Iar (Western Isles)	659	411.218	1
+Neath	509	151.406	1
+New Forest East	471.5	1385.513	1
+New Forest West	696.5	1731.929	1
+Newark	696.5	1775.231	1
+Newbury	1109	1017.446	1
+Newcastle-under-Lyme	696.5	1602.023	1
+Newcastle upon Tyne Central	809	541.124	1
+Newcastle upon Tyne East	846.5	562.775	1
+Newcastle upon Tyne North	809	497.822	1
+Newport East	621.5	1039.097	1
+Newport West	621.5	1428.815	1
+Newry & Armagh	584	1493.768	1
+Newton Abbot	96.5	779.285	1
+Norfolk Mid	471.5	1818.533	1
+Norfolk North	1034	1190.654	1
+Norfolk North West	1259	1233.956	1
+Norfolk South	1184	1190.654	1
+Norfolk South West	1259	1277.258	1
+Normanton, Pontefract & Castleford	1146.5	1255.607	1
+Northampton North	996.5	735.983	1
+Northampton South	846.5	1255.607	1
+Northamptonshire South 	846.5	1298.909	1
+Norwich North	809	1320.56	1
+Norwich South	1184	1233.956	1
+Nottingham East	1221.5	1255.607	1
+Nottingham North	1071.5	1082.399	1
+Nottingham South	1071.5	1039.097	1
+Nuneaton	1034	1104.05	1
+Ochil & South Perthshire	846.5	1082.399	1
+Ogmore	659	238.01	1
+Old Bexley & Sidcup	471.5	1472.117	1
+Oldham East & Saddleworth	1221.5	1515.419	1
+Oldham West & Royton	846.5	865.889	1
+Orkney & Shetland	809	757.634	1
+Orpington	696.5	43.151	1
+Oxford East	1146.5	1602.023	1
+Oxford West & Abingdon	771.5	1515.419	1
+Paisley & Renfrewshire North	734	1537.07	1
+Paisley & Renfrewshire South	546.5	259.661	1
+Pendle	546.5	389.567	1
+Penistone & Stocksbridge	846.5	692.681	1
+Penrith & The Border	921.5	952.493	1
+Perth & North Perthshire	734	541.124	1
+Peterborough	621.5	216.359	1
+Plymouth Moor View	1071.5	1212.305	1
+Plymouth Sutton & Devonport	396.5	1818.533	1
+Pontypridd	359	1840.184	1
+Poole	509	1407.164	1
+Poplar & Limehouse	584	1753.58	1
+Portsmouth North	1109	1493.768	1
+Portsmouth South	884	1710.278	1
+Preseli Pembrokeshire	921.5	1731.929	1
+Preston	359	1407.164	1
+Pudsey	696.5	692.681	1
+Putney	921.5	692.681	1
+Rayleigh & Wickford	921.5	1558.721	1
+Reading East	1296.5	1385.513	1
+Reading West	734	1580.372	1
+Redcar	734	1623.674	1
+Redditch	1034	584.426	1
+Reigate	696.5	1342.211	1
+Renfrewshire East	959	1666.976	1
+Rhondda	584	411.218	1
+South Ribble	509	1363.862	1
+Ribble Valley	584	800.936	1
+Richmond (Yorks)	846.5	649.379	1
+Richmond Park	921.5	649.379	1
+Rochdale	921.5	1515.419	1
+Rochester & Strood	846.5	822.587	1
+Rochford & Southend East	1334	1537.07	1
+Romford	1371.5	1428.815	1
+Romsey & Southampton North	1296.5	1472.117	1
+Ross, Skye & Lochaber	696.5	1688.627	1
+Rossendale & Darwen	584	151.406	1
+Rotherham	846.5	779.285	1
+Rother Valley	1071.5	952.493	1
+Rugby	996.5	865.889	1
+Ruislip, Northwood & Pinner	809	1233.956	1
+Runnymede & Weybridge	884	1407.164	1
+Rushcliffe	809	1537.07	1
+Rutherglen & Hamilton West	1071.5	1125.701	1
+Rutland & Melton	659	497.822	1
+Saffron Walden	1071.5	1169.003	1
+Salford & Eccles	1221.5	1385.513	1
+Salisbury	734	800.936	1
+Scarborough & Whitby	659	1710.278	1
+Scunthorpe	1071.5	692.681	1
+Sedgefield	1109	974.144	1
+Sefton Central	921.5	606.077	1
+Selby & Ainsty	546.5	865.889	1
+Sevenoaks	1034	714.332	1
+Sheffield Brightside & Hillsborough	1184	1623.674	1
+Sheffield Central	996.5	909.191	1
+Sheffield Hallam	959	930.842	1
+Sheffield Heeley	959	974.144	1
+Sheffield South East	996.5	952.493	1
+Sherwood	1034	930.842	1
+Shipley	1034	1017.446	1
+Shrewsbury & Atcham	959	671.03	1
+Shropshire North	621.5	1125.701	1
+Sittingbourne & Sheppey	621.5	1082.399	1
+Skipton & Ripon	1371.5	1558.721	1
+Sleaford & North Hykeham	884	671.03	1
+Slough	1109	1147.352	1
+Solihull	809	1493.768	1
+Somerset North	771.5	1255.607	1
+Somerset North East	509	1623.674	1
+Somerton & Frome	584	1666.976	1
+Southampton Itchen	509	1710.278	1
+Southampton Test	1146.5	1169.003	1
+Southend West	921.5	476.171	1
+South Holland & The Deepings	771.5	1731.929	1
+Southport	734	1753.58	1
+South Shields	1334	1407.164	1
+Spelthorne	546.5	822.587	1
+Stafford	809	1580.372	1
+Staffordshire Moorlands	1034	1277.258	1
+Staffordshire South	284	1840.184	1
+St Albans	621.5	822.587	1
+Stalybridge & Hyde	621.5	909.191	1
+St Austell & Newquay	209	1883.486	1
+Stevenage	771.5	1039.097	1
+St Helens North	734	974.144	1
+St Helens South & Whiston	659	1060.748	1
+Stirling	846.5	909.191	1
+St Ives	996.5	1255.607	1
+Stockport	584	194.708	1
+Stockton North	809	887.54	1
+Stockton South	959	584.426	1
+Stoke-on-Trent Central	996.5	649.379	1
+Stoke-on-Trent North	696.5	995.795	1
+Stoke-on-Trent South	659	1017.446	1
+Stone	696.5	1039.097	1
+Stourbridge	771.5	995.795	1
+Strangford	659	1277.258	1
+Stratford-on-Avon	209	800.936	1
+Streatham	771.5	1342.211	1
+Stretford & Urmston	1034	1580.372	1
+Stroud	696.5	779.285	1
+Suffolk Central & Ipswich North	659	1537.07	1
+Suffolk Coastal	1334	1320.56	1
+Suffolk South	1371.5	1298.909	1
+Suffolk West	1259	1320.56	1
+Sunderland Central	1184	1277.258	1
+Surrey East	959	497.822	1
+Surrey Heath	1146.5	1645.325	1
+Surrey South West	809	1623.674	1
+Sussex Mid	846.5	1688.627	1
+Sutton & Cheam	1184	1666.976	1
+Sutton Coldfield	921.5	1602.023	1
+Swansea East	809	1104.05	1
+Swansea West	434	1493.768	1
+Swindon North	434	1450.466	1
+Swindon South	696.5	1515.419	1
+Tamworth	659	1580.372	1
+Tatton	846.5	995.795	1
+Taunton Deane	734	930.842	1
+Telford	434	1753.58	1
+Tewkesbury	659	1104.05	1
+Thanet North	659	1450.466	1
+Thanet South	1446.5	1602.023	1
+Thirsk & Malton	1409	1623.674	1
+Thornbury & Yate	1109	757.634	1
+Thurrock	621.5	1515.419	1
+Tiverton & Honiton	1334	1493.768	1
+Tonbridge & Malling	509	1753.58	1
+Tooting	1221.5	1602.023	1
+Torbay	996.5	1602.023	1
+Torfaen	434	1840.184	1
+Totnes	621.5	1342.211	1
+Tottenham	434	1883.486	1
+Truro & Falmouth	1071.5	1385.513	1
+Tunbridge Wells	284	1883.486	1
+Twickenham	1259	1623.674	1
+Tynemouth	884	1580.372	1
+Tyneside North	884	454.52	1
+Tyrone West	846.5	519.473	1
+Ulster Mid	59	671.03	1
+Upper Bann	96.5	692.681	1
+Uxbridge & Ruislip South	134	800.936	1
+Vale of Clwyd	846.5	1472.117	1
+Vale of Glamorgan	546.5	1082.399	1
+Vauxhall	509	1493.768	1
+Wakefield	1034	1537.07	1
+Wallasey	959	800.936	1
+Walsall North	509	974.144	1
+Walsall South	734	1060.748	1
+Walthamstow	734	1104.05	1
+Wansbeck	1109	1407.164	1
+Wantage	809	454.52	1
+Warley	696.5	1558.721	1
+Warrington North	696.5	1169.003	1
+Warrington South	659	887.54	1
+Warwick & Leamington	696.5	909.191	1
+Warwickshire North	809	1277.258	1
+Washington & Sunderland West	846.5	1039.097	1
+Watford	921.5	519.473	1
+Waveney	921.5	1342.211	1
+Wealden	1334	1277.258	1
+Weaver Vale	1221.5	1645.325	1
+Wellingborough	659	974.144	1
+Wells	884	1233.956	1
+Welwyn Hatfield	471.5	1688.627	1
+Wentworth & Dearne	996.5	1298.909	1
+West Bromwich East	1034	844.238	1
+West Bromwich West	734	1147.352	1
+West Ham	659	1233.956	1
+Westminster North	1184	1450.466	1
+Westmorland & Lonsdale	996.5	1472.117	1
+Weston-Super-Mare	771.5	606.077	1
+Wigan	509	1666.976	1
+Wiltshire North	659	757.634	1
+Wiltshire South West	659	1623.674	1
+Wimbledon	546.5	1688.627	1
+Winchester	959	1580.372	1
+Windsor	809	1710.278	1
+Wirral South	846.5	1558.721	1
+Wirral West	546.5	995.795	1
+Witham	509	1017.446	1
+Witney	1334	1363.862	1
+Woking	734	1450.466	1
+Wokingham	809	1666.976	1
+Wolverhampton North East	734	1666.976	1
+Wolverhampton South East	734	1017.446	1
+Wolverhampton South West	696.5	1125.701	1
+Worcester	696.5	1082.399	1
+Worcestershire Mid	659	1363.862	1
+Worcestershire West	734	1363.862	1
+Workington	696.5	1385.513	1
+Worsley & Eccles South	696.5	562.775	1
+Worthing East & Shoreham	696.5	865.889	1
+Worthing West	1109	1710.278	1
+Wrekin, The	1071.5	1731.929	1
+Wrexham	621.5	1169.003	1
+Wycombe	584	1104.05	1
+Wyre & Preston North	771.5	1472.117	1
+Wyre Forest	771.5	649.379	1
+Wythenshawe & Sale East	621.5	1255.607	1
+Yeovil	734	844.238	1
+Ynys Mon	471.5	1731.929	1
+York Central	434	1060.748	1
+York Outer	1034	757.634	1
+Yorkshire East	1071.5	735.983	1
+Aberavon	459	1407.164	2
+Aberconwy	496.5	1082.399	2
+Aberdeen North	721.5	129.755	2
+Aberdeen South	759	151.406	2
+Aberdeenshire West & Kincardine	684	151.406	2
+Airdrie & Shotts	646.5	346.265	2
+Aldershot	759	1666.976	2
+Aldridge-Brownhills	796.5	1039.097	2
+Altrincham & Sale West	721.5	865.889	2
+Alyn & Deeside	571.5	1039.097	2
+Amber Valley	946.5	1039.097	2
+Angus	721.5	173.057	2
+Antrim East	196.5	649.379	2
+Antrim North	159	627.728	2
+Arfon	121.5	649.379	2
+Argyll & Bute	459	1104.05	2
+Arundel & South Downs	534	194.708	2
+Ashfield	1059	1666.976	2
+Ashford	984	1017.446	2
+Ashton Under Lyne	1284	1623.674	2
+Aylesbury	796.5	779.285	2
+Ayr, Carrick & Cumnock	721.5	1472.117	2
+Ayrshire Central	571.5	476.171	2
+Ayrshire North & Arran	534	454.52	2
+Banbury	534	411.218	2
+Banff & Buchan	721.5	1385.513	2
+Barking	684	108.104	2
+Barnsley Central	1246.5	1472.117	2
+Barnsley East	909	887.54	2
+Barrow & Furness	946.5	865.889	2
+Basildon & Billericay	684	627.728	2
+Basildon South & Thurrock East	1284	1407.164	2
+Basingstoke	1321.5	1428.815	2
+Bassetlaw	721.5	1688.627	2
+Bath	1059	974.144	2
+Batley & Spen	609	1580.372	2
+Battersea	909	800.936	2
+Beaconsfield	984	1537.07	2
+Beckenham	796.5	1428.815	2
+Bedford	1096.5	1602.023	2
+Bedfordshire Mid	909	1233.956	2
+Bedfordshire North East	834	1320.56	2
+Bedfordshire South West	871.5	1255.607	2
+Belfast East	834	1363.862	2
+Belfast North	159	714.332	2
+Belfast South	159	671.03	2
+Belfast West	121.5	735.983	2
+Bermondsey & Old Southwark	121.5	692.681	2
+Berwickshire, Roxburgh & Selkirk	1059	1493.768	2
+Berwick-upon-Tweed	721.5	432.869	2
+Bethnal Green & Bow	759	454.52	2
+Beverley & Holderness	1134	1450.466	2
+Bexhill & Battle	1134	800.936	2
+Bexleyheath & Crayford	1246.5	1645.325	2
+Birkenhead	1171.5	1558.721	2
+Birmingham Edgbaston	534	887.54	2
+Birmingham Erdington	646.5	1298.909	2
+Birmingham Hall Green	759	1104.05	2
+Birmingham Hodge Hill	721.5	1255.607	2
+Birmingham Ladywood	759	1147.352	2
+Birmingham Northfield	721.5	1212.305	2
+Birmingham Perry Barr	684	1277.258	2
+Birmingham Selly Oak	721.5	1169.003	2
+Birmingham Yardley	684	1190.654	2
+Bishop Auckland	759	1190.654	2
+Blackburn	871.5	606.077	2
+Blackley & Broughton	721.5	649.379	2
+Blackpool North & Cleveleys	759	757.634	2
+Blackpool South	646.5	649.379	2
+Blaenau Gwent	609	671.03	2
+Blaydon	571.5	1298.909	2
+Blyth Valley	759	541.124	2
+Bognor Regis & Littlehampton	834	454.52	2
+Bolsover	1021.5	1688.627	2
+Bolton North East	984	974.144	2
+Bolton South East	721.5	692.681	2
+Bolton West	721.5	735.983	2
+Bootle	684	714.332	2
+Boston & Skegness	496.5	909.191	2
+Bosworth	1134	1104.05	2
+Bournemouth East	871.5	1125.701	2
+Bournemouth West	609	1710.278	2
+Bracknell	609	1666.976	2
+Bradford East	759	1580.372	2
+Bradford South	909	714.332	2
+Bradford West	871.5	779.285	2
+Braintree	871.5	735.983	2
+Brecon & Radnorshire	1209	1320.56	2
+Brent Central	571.5	1212.305	2
+Brent North	984	1363.862	2
+Brentford & Isleworth	946.5	1385.513	2
+Brentwood & Ongar	909	1450.466	2
+Bridgend	1171.5	1342.211	2
+Bridgwater & Somerset West	459	1493.768	2
+Brigg & Goole	421.5	1688.627	2
+Brighton Kemptown	1059	887.54	2
+Brighton Pavilion	1171.5	1688.627	2
+Bristol East	1134	1666.976	2
+Bristol North West	571.5	1558.721	2
+Bristol South	534	1580.372	2
+Bristol West	534	1623.674	2
+Broadland	571.5	1602.023	2
+Bromley & Chislehurst	1209	1190.654	2
+Bromsgrove	1134	1537.07	2
+Broxbourne	721.5	1298.909	2
+Broxtowe	1059	1277.258	2
+Buckingham	1021.5	1039.097	2
+Burnley	834	1407.164	2
+Burton	834	714.332	2
+Bury North	796.5	952.493	2
+Bury South	759	671.03	2
+Bury St Edmunds	759	714.332	2
+Caerphilly	1209	1277.258	2
+Caithness, Sutherland & Easter Ross	571.5	1385.513	2
+Calder Valley	571.5	86.453	2
+Camberwell & Peckham	871.5	865.889	2
+Camborne & Redruth	1096.5	1515.419	2
+Cambridge	234	1840.184	2
+Cambridgeshire North East	1134	1277.258	2
+Cambridgeshire North West	1134	1190.654	2
+Cambridgeshire South	984	1190.654	2
+Cambridgeshire South East	1021.5	1212.305	2
+Cannock Chase	1171.5	1298.909	2
+Canterbury	759	1060.748	2
+Cardiff Central	1396.5	1558.721	2
+Cardiff North	534	1407.164	2
+Cardiff South & Penarth	571.5	1428.815	2
+Cardiff West	534	1450.466	2
+Carlisle	496.5	1428.815	2
+Carmarthen East & Dinefwr	721.5	562.775	2
+Carmarthen West & Pembrokeshire South	421.5	1385.513	2
+Carshalton & Wallington	346.5	1428.815	2
+Castle Point	984	1623.674	2
+Ceredigion	1359	1450.466	2
+Charnwood	571.5	1255.607	2
+Chatham & Aylesford	984	1104.05	2
+Cheadle	1321.5	1558.721	2
+Chelmsford	759	887.54	2
+Chelsea & Fulham	1246.5	1385.513	2
+Cheltenham	984	1493.768	2
+Chesham & Amersham	684	1407.164	2
+Chester, City of	759	1407.164	2
+Chesterfield	571.5	995.795	2
+Chichester	946.5	995.795	2
+Chingford & Woodford Green	984	1710.278	2
+Chippenham	1171.5	1385.513	2
+Chipping Barnet	609	1623.674	2
+Chorley	1021.5	1298.909	2
+Christchurch	646.5	692.681	2
+Cities of London & Westminster	646.5	1731.929	2
+Clacton	1021.5	1472.117	2
+Cleethorpes	1359	1320.56	2
+Clwyd South	1134	974.144	2
+Clwyd West	571.5	1125.701	2
+Coatbridge, Chryston & Bellshill	534	1104.05	2
+Colchester	609	367.916	2
+Colne Valley	1246.5	1342.211	2
+Congleton	871.5	909.191	2
+Copeland	759	930.842	2
+Corby	684	584.426	2
+Cornwall North	1021.5	1125.701	2
+Cornwall South East	309	1796.882	2
+Cotswolds, The	309	1840.184	2
+Coventry North East	684	1450.466	2
+Coventry North West	834	1104.05	2
+Coventry South	834	1147.352	2
+Crawley	796.5	1169.003	2
+Crewe & Nantwich	984	1666.976	2
+Croydon Central	684	930.842	2
+Croydon North	1059	1623.674	2
+Croydon South	1021.5	1602.023	2
+Cumbernauld, Kilsyth & Kirkintilloch East	1021.5	1645.325	2
+Cynon Valley	609	238.01	2
+Dagenham & Rainham	534	1363.862	2
+Darlington	1246.5	1515.419	2
+Dartford	946.5	606.077	2
+Daventry	1246.5	1558.721	2
+Delyn	834	1190.654	2
+Denton & Reddish	534	1017.446	2
+Derby North	796.5	822.587	2
+Derby South	871.5	1039.097	2
+Derbyshire Dales	909	1060.748	2
+Derbyshire Mid	871.5	995.795	2
+Derbyshire North East	909	1017.446	2
+Derbyshire South	909	974.144	2
+Devizes	871.5	1082.399	2
+Devon Central	646.5	1645.325	2
+Devon East	384	1753.58	2
+Devon North	459	1753.58	2
+Devon South West	384	1710.278	2
+Devon West & Torridge	384	1840.184	2
+Dewsbury	346.5	1775.231	2
+Don Valley	946.5	822.587	2
+Doncaster Central	1021.5	865.889	2
+Doncaster North	1059	844.238	2
+Dorset Mid & Poole North	1059	800.936	2
+Dorset North	534	1710.278	2
+Dorset South	571.5	1688.627	2
+Dorset West	571.5	1775.231	2
+Dover	534	1753.58	2
+Down North	1359	1623.674	2
+Down South	196.5	735.983	2
+Dudley North	159	800.936	2
+Dudley South	646.5	1125.701	2
+Dulwich & West Norwood	646.5	1169.003	2
+Dumfries & Galloway	1059	1537.07	2
+Dumfriesshire, Clydesdale & Tweeddale	609	497.822	2
+Dunbartonshire East	684	497.822	2
+Dunbartonshire West	571.5	259.661	2
+Dundee East	571.5	216.359	2
+Dundee West	684	194.708	2
+Dunfermline & Fife West	721.5	216.359	2
+Durham, City of	684	238.01	2
+Durham North	871.5	562.775	2
+Durham North West	834	584.426	2
+Dwyfor Meirionnydd	796.5	562.775	2
+Ealing Central & Acton	496.5	1125.701	2
+Ealing North	909	1407.164	2
+Ealing Southall	871.5	1428.815	2
+Easington	871.5	1472.117	2
+East Ham	946.5	519.473	2
+East Kilbride, Strathaven & Lesmahagow	1209	1450.466	2
+East Lothian	571.5	432.869	2
+Eastbourne	759	367.916	2
+Eastleigh	1246.5	1688.627	2
+Eddisbury	796.5	1731.929	2
+Edinburgh East	609	974.144	2
+Edinburgh North & Leith	721.5	346.265	2
+Edinburgh South	721.5	389.567	2
+Edinburgh South West	684	411.218	2
+Edinburgh West	684	367.916	2
+Edmonton	684	324.614	2
+Ellesmere Port & Neston	1134	1363.862	2
+Elmet & Rothwell	534	930.842	2
+Eltham	984	671.03	2
+Enfield North	1171.5	1515.419	2
+Enfield Southgate	1096.5	1342.211	2
+Epping Forest	1059	1320.56	2
+Epsom & Ewell	1134	1320.56	2
+Erewash	909	1623.674	2
+Erith & Thamesmead	984	1060.748	2
+Esher & Walton	1209	1537.07	2
+Exeter	834	1580.372	2
+Falkirk	421.5	1775.231	2
+Fareham	646.5	259.661	2
+Faversham & Kent Mid	834	1753.58	2
+Feltham & Heston	1321.5	1602.023	2
+Fermanagh & South Tyrone	871.5	1515.419	2
+Fife North East	46.5	692.681	2
+Filton & Bradley Stoke	759	238.01	2
+Finchley & Golders Green	571.5	1515.419	2
+Folkestone & Hythe	1021.5	1342.211	2
+Forest of Dean	1321.5	1645.325	2
+Foyle	609	1450.466	2
+Fylde	84	627.728	2
+Gainsborough	609	714.332	2
+Garston & Halewood	1134	1017.446	2
+Gateshead	609	930.842	2
+Gedling	871.5	519.473	2
+Gillingham & Rainham	1096.5	1039.097	2
+Glasgow Central	1359	1580.372	2
+Glasgow East	571.5	346.265	2
+Glasgow North	609	324.614	2
+Glasgow North East	571.5	302.963	2
+Glasgow North West	609	281.312	2
+Glasgow South	534	281.312	2
+Glasgow South West	609	411.218	2
+Glenrothes	534	324.614	2
+Gloucester	721.5	259.661	2
+Gordon	646.5	1472.117	2
+Gosport	646.5	129.755	2
+Gower	871.5	1731.929	2
+Grantham & Stamford	384	1450.466	2
+Gravesham	1096.5	1169.003	2
+Great Grimsby	1284	1537.07	2
+Great Yarmouth	1284	1233.956	2
+Greenwich & Woolwich	1171.5	1472.117	2
+Guildford	1134	930.842	2
+Hackney North & Stoke Newington	871.5	1645.325	2
+Hackney South & Shoreditch	1059	1407.164	2
+Halesowen & Rowley Regis	1096.5	1428.815	2
+Halifax	684	1233.956	2
+Haltemprice & Howden	871.5	822.587	2
+Halton	1096.5	779.285	2
+Hammersmith	646.5	909.191	2
+Hampshire East	946.5	1515.419	2
+Hampshire North East	909	1666.976	2
+Hampshire North West	759	1623.674	2
+Hampstead & Kilburn	684	1623.674	2
+Harborough	946.5	1428.815	2
+Harlow	946.5	1169.003	2
+Harrogate & Knaresborough	1096.5	1298.909	2
+Harrow East	1021.5	649.379	2
+Harrow West	946.5	1342.211	2
+Hartlepool	909	1363.862	2
+Harwich & Essex North	984	541.124	2
+Hastings & Rye	1284	1320.56	2
+Havant	1284	1666.976	2
+Hayes & Harlington	946.5	1688.627	2
+Hazel Grove	834	1493.768	2
+Hemel Hempstead	834	930.842	2
+Hemsworth	1059	1233.956	2
+Hendon	1059	757.634	2
+Henley	984	1320.56	2
+Hereford & Herefordshire South	759	1363.862	2
+Herefordshire North	646.5	1385.513	2
+Hertford & Stortford	609	1277.258	2
+Hertfordshire North East	1096.5	1255.607	2
+Hertfordshire South West	1096.5	1212.305	2
+Hertsmere	871.5	1342.211	2
+Hexham	946.5	1298.909	2
+Heywood & Middleton	759	497.822	2
+High Peak	796.5	692.681	2
+Hitchin & Harpenden	871.5	952.493	2
+Holborn & St Pancras	946.5	1255.607	2
+Hornchurch & Upminster	1021.5	1428.815	2
+Hornsey & Wood Green	1284	1493.768	2
+Horsham	984	1407.164	2
+Houghton & Sunderland South	1096.5	1645.325	2
+Hove	909	541.124	2
+Huddersfield	1134	1710.278	2
+Hull East	909	844.238	2
+Hull North	1096.5	865.889	2
+Hull West & Hessle	1096.5	822.587	2
+Huntingdon	1096.5	909.191	2
+Hyndburn	946.5	1212.305	2
+Ilford North	796.5	649.379	2
+Ilford South	1209	1407.164	2
+Inverclyde	1246.5	1428.815	2
+Inverness, Nairn, Badenoch & Strathspey	496.5	302.963	2
+Ipswich	609	151.406	2
+Isle of Wight	1284	1277.258	2
+Islington North	759	1796.882	2
+Islington South & Finsbury	1021.5	1385.513	2
+Islwyn	1059	1450.466	2
+Jarrow	571.5	1342.211	2
+Keighley	871.5	476.171	2
+Kenilworth & Southam	871.5	692.681	2
+Kensington	759	1277.258	2
+Kettering	946.5	1472.117	2
+Kilmarnock & Loudoun	984	1147.352	2
+Kingston & Surbiton	609	454.52	2
+Kingswood	871.5	1602.023	2
+Kirkcaldy & Cowdenbeath	609	1537.07	2
+Knowsley	684	281.312	2
+Lagan Valley	609	844.238	2
+Lanark & Hamilton East	159	757.634	2
+Lancashire West	646.5	432.869	2
+Lancaster & Fleetwood	609	757.634	2
+Leeds Central	796.5	606.077	2
+Leeds East	909	757.634	2
+Leeds North East	1021.5	779.285	2
+Leeds North West	984	757.634	2
+Leeds West	946.5	735.983	2
+Leicester East	946.5	692.681	2
+Leicester South	946.5	1125.701	2
+Leicester West	909	1190.654	2
+Leicestershire North West	909	1147.352	2
+Leicestershire South	909	1104.05	2
+Leigh	871.5	1169.003	2
+Lewes	646.5	822.587	2
+Lewisham Deptford	1209	1666.976	2
+Lewisham East	1134	1493.768	2
+Lewisham West & Penge	1096.5	1558.721	2
+Leyton & Wanstead	1059	1580.372	2
+Lichfield	1134	1407.164	2
+Lincoln	796.5	995.795	2
+Linlithgow & Falkirk East	1096.5	1082.399	2
+Liverpool Riverside	646.5	302.963	2
+Liverpool Walton	571.5	952.493	2
+Liverpool Wavertree	571.5	822.587	2
+Liverpool West Derby	571.5	909.191	2
+Livingston	571.5	865.889	2
+Llanelli	684	454.52	2
+Londonderry East	384	1407.164	2
+Loughborough	121.5	606.077	2
+Louth & Horncastle	946.5	1082.399	2
+Ludlow	1134	1060.748	2
+Luton North	609	1190.654	2
+Luton South	871.5	1298.909	2
+Macclesfield	909	1277.258	2
+Maidenhead	796.5	909.191	2
+Maidstone & The Weald	759	1537.07	2
+Makerfield	1284	1580.372	2
+Maldon	646.5	779.285	2
+Manchester Central	1359	1363.862	2
+Manchester Gorton	759	800.936	2
+Manchester Withington	684	800.936	2
+Mansfield	759	844.238	2
+Meon Valley	1021.5	952.493	2
+Meriden	834	1710.278	2
+Merthyr Tydfil & Rhymney	796.5	1125.701	2
+Middlesbrough	534	1320.56	2
+Middlesbrough South & Cleveland East	984	584.426	2
+Midlothian	1021.5	606.077	2
+Milton Keynes North	721.5	476.171	2
+Milton Keynes South	796.5	1342.211	2
+Mitcham & Morden	796.5	1385.513	2
+Mole Valley	946.5	1602.023	2
+Monmouth	834	1623.674	2
+Montgomeryshire	609	1363.862	2
+Moray	571.5	1169.003	2
+Morecambe & Lunesdale	646.5	173.057	2
+Morley & Outwood	721.5	606.077	2
+Motherwell & Wishaw	984	800.936	2
+Na h-Eileanan an Iar (Western Isles)	646.5	389.567	2
+Neath	496.5	129.755	2
+New Forest East	459	1363.862	2
+New Forest West	684	1710.278	2
+Newark	684	1753.58	2
+Newbury	1096.5	995.795	2
+Newcastle-under-Lyme	684	1580.372	2
+Newcastle upon Tyne Central	796.5	519.473	2
+Newcastle upon Tyne East	834	541.124	2
+Newcastle upon Tyne North	796.5	476.171	2
+Newport East	609	1017.446	2
+Newport West	609	1407.164	2
+Newry & Armagh	571.5	1472.117	2
+Newton Abbot	84	757.634	2
+Norfolk Mid	459	1796.882	2
+Norfolk North	1021.5	1169.003	2
+Norfolk North West	1246.5	1212.305	2
+Norfolk South	1171.5	1169.003	2
+Norfolk South West	1246.5	1255.607	2
+Normanton, Pontefract & Castleford	1134	1233.956	2
+Northampton North	984	714.332	2
+Northampton South	834	1233.956	2
+Northamptonshire South 	834	1277.258	2
+Norwich North	796.5	1298.909	2
+Norwich South	1171.5	1212.305	2
+Nottingham East	1209	1233.956	2
+Nottingham North	1059	1060.748	2
+Nottingham South	1059	1017.446	2
+Nuneaton	1021.5	1082.399	2
+Ochil & South Perthshire	834	1060.748	2
+Ogmore	646.5	216.359	2
+Old Bexley & Sidcup	459	1450.466	2
+Oldham East & Saddleworth	1209	1493.768	2
+Oldham West & Royton	834	844.238	2
+Orkney & Shetland	796.5	735.983	2
+Orpington	684	21.5	2
+Oxford East	1134	1580.372	2
+Oxford West & Abingdon	759	1493.768	2
+Paisley & Renfrewshire North	721.5	1515.419	2
+Paisley & Renfrewshire South	534	238.01	2
+Pendle	534	367.916	2
+Penistone & Stocksbridge	834	671.03	2
+Penrith & The Border	909	930.842	2
+Perth & North Perthshire	721.5	519.473	2
+Peterborough	609	194.708	2
+Plymouth Moor View	1059	1190.654	2
+Plymouth Sutton & Devonport	384	1796.882	2
+Pontypridd	346.5	1818.533	2
+Poole	496.5	1385.513	2
+Poplar & Limehouse	571.5	1731.929	2
+Portsmouth North	1096.5	1472.117	2
+Portsmouth South	871.5	1688.627	2
+Preseli Pembrokeshire	909	1710.278	2
+Preston	346.5	1385.513	2
+Pudsey	684	671.03	2
+Putney	909	671.03	2
+Rayleigh & Wickford	909	1537.07	2
+Reading East	1284	1363.862	2
+Reading West	721.5	1558.721	2
+Redcar	721.5	1602.023	2
+Redditch	1021.5	562.775	2
+Reigate	684	1320.56	2
+Renfrewshire East	946.5	1645.325	2
+Rhondda	571.5	389.567	2
+South Ribble	496.5	1342.211	2
+Ribble Valley	571.5	779.285	2
+Richmond (Yorks)	834	627.728	2
+Richmond Park	909	627.728	2
+Rochdale	909	1493.768	2
+Rochester & Strood	834	800.936	2
+Rochford & Southend East	1321.5	1515.419	2
+Romford	1359	1407.164	2
+Romsey & Southampton North	1284	1450.466	2
+Ross, Skye & Lochaber	684	1666.976	2
+Rossendale & Darwen	571.5	129.755	2
+Rotherham	834	757.634	2
+Rother Valley	1059	930.842	2
+Rugby	984	844.238	2
+Ruislip, Northwood & Pinner	796.5	1212.305	2
+Runnymede & Weybridge	871.5	1385.513	2
+Rushcliffe	796.5	1515.419	2
+Rutherglen & Hamilton West	1059	1104.05	2
+Rutland & Melton	646.5	476.171	2
+Saffron Walden	1059	1147.352	2
+Salford & Eccles	1209	1363.862	2
+Salisbury	721.5	779.285	2
+Scarborough & Whitby	646.5	1688.627	2
+Scunthorpe	1059	671.03	2
+Sedgefield	1096.5	952.493	2
+Sefton Central	909	584.426	2
+Selby & Ainsty	534	844.238	2
+Sevenoaks	1021.5	692.681	2
+Sheffield Brightside & Hillsborough	1171.5	1602.023	2
+Sheffield Central	984	887.54	2
+Sheffield Hallam	946.5	909.191	2
+Sheffield Heeley	946.5	952.493	2
+Sheffield South East	984	930.842	2
+Sherwood	1021.5	909.191	2
+Shipley	1021.5	995.795	2
+Shrewsbury & Atcham	946.5	649.379	2
+Shropshire North	609	1104.05	2
+Sittingbourne & Sheppey	609	1060.748	2
+Skipton & Ripon	1359	1537.07	2
+Sleaford & North Hykeham	871.5	649.379	2
+Slough	1096.5	1125.701	2
+Solihull	796.5	1472.117	2
+Somerset North	759	1233.956	2
+Somerset North East	496.5	1602.023	2
+Somerton & Frome	571.5	1645.325	2
+Southampton Itchen	496.5	1688.627	2
+Southampton Test	1134	1147.352	2
+Southend West	909	454.52	2
+South Holland & The Deepings	759	1710.278	2
+Southport	721.5	1731.929	2
+South Shields	1321.5	1385.513	2
+Spelthorne	534	800.936	2
+Stafford	796.5	1558.721	2
+Staffordshire Moorlands	1021.5	1255.607	2
+Staffordshire South	271.5	1818.533	2
+St Albans	609	800.936	2
+Stalybridge & Hyde	609	887.54	2
+St Austell & Newquay	196.5	1861.835	2
+Stevenage	759	1017.446	2
+St Helens North	721.5	952.493	2
+St Helens South & Whiston	646.5	1039.097	2
+Stirling	834	887.54	2
+St Ives	984	1233.956	2
+Stockport	571.5	173.057	2
+Stockton North	796.5	865.889	2
+Stockton South	946.5	562.775	2
+Stoke-on-Trent Central	984	627.728	2
+Stoke-on-Trent North	684	974.144	2
+Stoke-on-Trent South	646.5	995.795	2
+Stone	684	1017.446	2
+Stourbridge	759	974.144	2
+Strangford	646.5	1255.607	2
+Stratford-on-Avon	196.5	779.285	2
+Streatham	759	1320.56	2
+Stretford & Urmston	1021.5	1558.721	2
+Stroud	684	757.634	2
+Suffolk Central & Ipswich North	646.5	1515.419	2
+Suffolk Coastal	1321.5	1298.909	2
+Suffolk South	1359	1277.258	2
+Suffolk West	1246.5	1298.909	2
+Sunderland Central	1171.5	1255.607	2
+Surrey East	946.5	476.171	2
+Surrey Heath	1134	1623.674	2
+Surrey South West	796.5	1602.023	2
+Sussex Mid	834	1666.976	2
+Sutton & Cheam	1171.5	1645.325	2
+Sutton Coldfield	909	1580.372	2
+Swansea East	796.5	1082.399	2
+Swansea West	421.5	1472.117	2
+Swindon North	421.5	1428.815	2
+Swindon South	684	1493.768	2
+Tamworth	646.5	1558.721	2
+Tatton	834	974.144	2
+Taunton Deane	721.5	909.191	2
+Telford	421.5	1731.929	2
+Tewkesbury	646.5	1082.399	2
+Thanet North	646.5	1428.815	2
+Thanet South	1434	1580.372	2
+Thirsk & Malton	1396.5	1602.023	2
+Thornbury & Yate	1096.5	735.983	2
+Thurrock	609	1493.768	2
+Tiverton & Honiton	1321.5	1472.117	2
+Tonbridge & Malling	496.5	1731.929	2
+Tooting	1209	1580.372	2
+Torbay	984	1580.372	2
+Torfaen	421.5	1818.533	2
+Totnes	609	1320.56	2
+Tottenham	421.5	1861.835	2
+Truro & Falmouth	1059	1363.862	2
+Tunbridge Wells	271.5	1861.835	2
+Twickenham	1246.5	1602.023	2
+Tynemouth	871.5	1558.721	2
+Tyneside North	871.5	432.869	2
+Tyrone West	834	497.822	2
+Ulster Mid	46.5	649.379	2
+Upper Bann	84	671.03	2
+Uxbridge & Ruislip South	121.5	779.285	2
+Vale of Clwyd	834	1450.466	2
+Vale of Glamorgan	534	1060.748	2
+Vauxhall	496.5	1472.117	2
+Wakefield	1021.5	1515.419	2
+Wallasey	946.5	779.285	2
+Walsall North	496.5	952.493	2
+Walsall South	721.5	1039.097	2
+Walthamstow	721.5	1082.399	2
+Wansbeck	1096.5	1385.513	2
+Wantage	796.5	432.869	2
+Warley	684	1537.07	2
+Warrington North	684	1147.352	2
+Warrington South	646.5	865.889	2
+Warwick & Leamington	684	887.54	2
+Warwickshire North	796.5	1255.607	2
+Washington & Sunderland West	834	1017.446	2
+Watford	909	497.822	2
+Waveney	909	1320.56	2
+Wealden	1321.5	1255.607	2
+Weaver Vale	1209	1623.674	2
+Wellingborough	646.5	952.493	2
+Wells	871.5	1212.305	2
+Welwyn Hatfield	459	1666.976	2
+Wentworth & Dearne	984	1277.258	2
+West Bromwich East	1021.5	822.587	2
+West Bromwich West	721.5	1125.701	2
+West Ham	646.5	1212.305	2
+Westminster North	1171.5	1428.815	2
+Westmorland & Lonsdale	984	1450.466	2
+Weston-Super-Mare	759	584.426	2
+Wigan	496.5	1645.325	2
+Wiltshire North	646.5	735.983	2
+Wiltshire South West	646.5	1602.023	2
+Wimbledon	534	1666.976	2
+Winchester	946.5	1558.721	2
+Windsor	796.5	1688.627	2
+Wirral South	834	1537.07	2
+Wirral West	534	974.144	2
+Witham	496.5	995.795	2
+Witney	1321.5	1342.211	2
+Woking	721.5	1428.815	2
+Wokingham	796.5	1645.325	2
+Wolverhampton North East	721.5	1645.325	2
+Wolverhampton South East	721.5	995.795	2
+Wolverhampton South West	684	1104.05	2
+Worcester	684	1060.748	2
+Worcestershire Mid	646.5	1342.211	2
+Worcestershire West	721.5	1342.211	2
+Workington	684	1363.862	2
+Worsley & Eccles South	684	541.124	2
+Worthing East & Shoreham	684	844.238	2
+Worthing West	1096.5	1688.627	2
+Wrekin, The	1059	1710.278	2
+Wrexham	609	1147.352	2
+Wycombe	571.5	1082.399	2
+Wyre & Preston North	759	1450.466	2
+Wyre Forest	759	627.728	2
+Wythenshawe & Sale East	609	1233.956	2
+Yeovil	721.5	822.587	2
+Ynys Mon	459	1710.278	2
+York Central	421.5	1039.097	2
+York Outer	1021.5	735.983	2
+Yorkshire East	1059	714.332	2
+Aberavon	434	1407.164	3
+Aberconwy	471.5	1082.399	3
+Aberdeen North	696.5	129.755	3
+Aberdeen South	734	151.406	3
+Aberdeenshire West & Kincardine	659	151.406	3
+Airdrie & Shotts	621.5	346.265	3
+Aldershot	734	1666.976	3
+Aldridge-Brownhills	771.5	1039.097	3
+Altrincham & Sale West	696.5	865.889	3
+Alyn & Deeside	546.5	1039.097	3
+Amber Valley	921.5	1039.097	3
+Angus	696.5	173.057	3
+Antrim East	171.5	649.379	3
+Antrim North	134	627.728	3
+Arfon	96.5	649.379	3
+Argyll & Bute	434	1104.05	3
+Arundel & South Downs	509	194.708	3
+Ashfield	1034	1666.976	3
+Ashford	959	1017.446	3
+Ashton Under Lyne	1259	1623.674	3
+Aylesbury	771.5	779.285	3
+Ayr, Carrick & Cumnock	696.5	1472.117	3
+Ayrshire Central	546.5	476.171	3
+Ayrshire North & Arran	509	454.52	3
+Banbury	509	411.218	3
+Banff & Buchan	696.5	1385.513	3
+Barking	659	108.104	3
+Barnsley Central	1221.5	1472.117	3
+Barnsley East	884	887.54	3
+Barrow & Furness	921.5	865.889	3
+Basildon & Billericay	659	627.728	3
+Basildon South & Thurrock East	1259	1407.164	3
+Basingstoke	1296.5	1428.815	3
+Bassetlaw	696.5	1688.627	3
+Bath	1034	974.144	3
+Batley & Spen	584	1580.372	3
+Battersea	884	800.936	3
+Beaconsfield	959	1537.07	3
+Beckenham	771.5	1428.815	3
+Bedford	1071.5	1602.023	3
+Bedfordshire Mid	884	1233.956	3
+Bedfordshire North East	809	1320.56	3
+Bedfordshire South West	846.5	1255.607	3
+Belfast East	809	1363.862	3
+Belfast North	134	714.332	3
+Belfast South	134	671.03	3
+Belfast West	96.5	735.983	3
+Bermondsey & Old Southwark	96.5	692.681	3
+Berwickshire, Roxburgh & Selkirk	1034	1493.768	3
+Berwick-upon-Tweed	696.5	432.869	3
+Bethnal Green & Bow	734	454.52	3
+Beverley & Holderness	1109	1450.466	3
+Bexhill & Battle	1109	800.936	3
+Bexleyheath & Crayford	1221.5	1645.325	3
+Birkenhead	1146.5	1558.721	3
+Birmingham Edgbaston	509	887.54	3
+Birmingham Erdington	621.5	1298.909	3
+Birmingham Hall Green	734	1104.05	3
+Birmingham Hodge Hill	696.5	1255.607	3
+Birmingham Ladywood	734	1147.352	3
+Birmingham Northfield	696.5	1212.305	3
+Birmingham Perry Barr	659	1277.258	3
+Birmingham Selly Oak	696.5	1169.003	3
+Birmingham Yardley	659	1190.654	3
+Bishop Auckland	734	1190.654	3
+Blackburn	846.5	606.077	3
+Blackley & Broughton	696.5	649.379	3
+Blackpool North & Cleveleys	734	757.634	3
+Blackpool South	621.5	649.379	3
+Blaenau Gwent	584	671.03	3
+Blaydon	546.5	1298.909	3
+Blyth Valley	734	541.124	3
+Bognor Regis & Littlehampton	809	454.52	3
+Bolsover	996.5	1688.627	3
+Bolton North East	959	974.144	3
+Bolton South East	696.5	692.681	3
+Bolton West	696.5	735.983	3
+Bootle	659	714.332	3
+Boston & Skegness	471.5	909.191	3
+Bosworth	1109	1104.05	3
+Bournemouth East	846.5	1125.701	3
+Bournemouth West	584	1710.278	3
+Bracknell	584	1666.976	3
+Bradford East	734	1580.372	3
+Bradford South	884	714.332	3
+Bradford West	846.5	779.285	3
+Braintree	846.5	735.983	3
+Brecon & Radnorshire	1184	1320.56	3
+Brent Central	546.5	1212.305	3
+Brent North	959	1363.862	3
+Brentford & Isleworth	921.5	1385.513	3
+Brentwood & Ongar	884	1450.466	3
+Bridgend	1146.5	1342.211	3
+Bridgwater & Somerset West	434	1493.768	3
+Brigg & Goole	396.5	1688.627	3
+Brighton Kemptown	1034	887.54	3
+Brighton Pavilion	1146.5	1688.627	3
+Bristol East	1109	1666.976	3
+Bristol North West	546.5	1558.721	3
+Bristol South	509	1580.372	3
+Bristol West	509	1623.674	3
+Broadland	546.5	1602.023	3
+Bromley & Chislehurst	1184	1190.654	3
+Bromsgrove	1109	1537.07	3
+Broxbourne	696.5	1298.909	3
+Broxtowe	1034	1277.258	3
+Buckingham	996.5	1039.097	3
+Burnley	809	1407.164	3
+Burton	809	714.332	3
+Bury North	771.5	952.493	3
+Bury South	734	671.03	3
+Bury St Edmunds	734	714.332	3
+Caerphilly	1184	1277.258	3
+Caithness, Sutherland & Easter Ross	546.5	1385.513	3
+Calder Valley	546.5	86.453	3
+Camberwell & Peckham	846.5	865.889	3
+Camborne & Redruth	1071.5	1515.419	3
+Cambridge	209	1840.184	3
+Cambridgeshire North East	1109	1277.258	3
+Cambridgeshire North West	1109	1190.654	3
+Cambridgeshire South	959	1190.654	3
+Cambridgeshire South East	996.5	1212.305	3
+Cannock Chase	1146.5	1298.909	3
+Canterbury	734	1060.748	3
+Cardiff Central	1371.5	1558.721	3
+Cardiff North	509	1407.164	3
+Cardiff South & Penarth	546.5	1428.815	3
+Cardiff West	509	1450.466	3
+Carlisle	471.5	1428.815	3
+Carmarthen East & Dinefwr	696.5	562.775	3
+Carmarthen West & Pembrokeshire South	396.5	1385.513	3
+Carshalton & Wallington	321.5	1428.815	3
+Castle Point	959	1623.674	3
+Ceredigion	1334	1450.466	3
+Charnwood	546.5	1255.607	3
+Chatham & Aylesford	959	1104.05	3
+Cheadle	1296.5	1558.721	3
+Chelmsford	734	887.54	3
+Chelsea & Fulham	1221.5	1385.513	3
+Cheltenham	959	1493.768	3
+Chesham & Amersham	659	1407.164	3
+Chester, City of	734	1407.164	3
+Chesterfield	546.5	995.795	3
+Chichester	921.5	995.795	3
+Chingford & Woodford Green	959	1710.278	3
+Chippenham	1146.5	1385.513	3
+Chipping Barnet	584	1623.674	3
+Chorley	996.5	1298.909	3
+Christchurch	621.5	692.681	3
+Cities of London & Westminster	621.5	1731.929	3
+Clacton	996.5	1472.117	3
+Cleethorpes	1334	1320.56	3
+Clwyd South	1109	974.144	3
+Clwyd West	546.5	1125.701	3
+Coatbridge, Chryston & Bellshill	509	1104.05	3
+Colchester	584	367.916	3
+Colne Valley	1221.5	1342.211	3
+Congleton	846.5	909.191	3
+Copeland	734	930.842	3
+Corby	659	584.426	3
+Cornwall North	996.5	1125.701	3
+Cornwall South East	284	1796.882	3
+Cotswolds, The	284	1840.184	3
+Coventry North East	659	1450.466	3
+Coventry North West	809	1104.05	3
+Coventry South	809	1147.352	3
+Crawley	771.5	1169.003	3
+Crewe & Nantwich	959	1666.976	3
+Croydon Central	659	930.842	3
+Croydon North	1034	1623.674	3
+Croydon South	996.5	1602.023	3
+Cumbernauld, Kilsyth & Kirkintilloch East	996.5	1645.325	3
+Cynon Valley	584	238.01	3
+Dagenham & Rainham	509	1363.862	3
+Darlington	1221.5	1515.419	3
+Dartford	921.5	606.077	3
+Daventry	1221.5	1558.721	3
+Delyn	809	1190.654	3
+Denton & Reddish	509	1017.446	3
+Derby North	771.5	822.587	3
+Derby South	846.5	1039.097	3
+Derbyshire Dales	884	1060.748	3
+Derbyshire Mid	846.5	995.795	3
+Derbyshire North East	884	1017.446	3
+Derbyshire South	884	974.144	3
+Devizes	846.5	1082.399	3
+Devon Central	621.5	1645.325	3
+Devon East	359	1753.58	3
+Devon North	434	1753.58	3
+Devon South West	359	1710.278	3
+Devon West & Torridge	359	1840.184	3
+Dewsbury	321.5	1775.231	3
+Don Valley	921.5	822.587	3
+Doncaster Central	996.5	865.889	3
+Doncaster North	1034	844.238	3
+Dorset Mid & Poole North	1034	800.936	3
+Dorset North	509	1710.278	3
+Dorset South	546.5	1688.627	3
+Dorset West	546.5	1775.231	3
+Dover	509	1753.58	3
+Down North	1334	1623.674	3
+Down South	171.5	735.983	3
+Dudley North	134	800.936	3
+Dudley South	621.5	1125.701	3
+Dulwich & West Norwood	621.5	1169.003	3
+Dumfries & Galloway	1034	1537.07	3
+Dumfriesshire, Clydesdale & Tweeddale	584	497.822	3
+Dunbartonshire East	659	497.822	3
+Dunbartonshire West	546.5	259.661	3
+Dundee East	546.5	216.359	3
+Dundee West	659	194.708	3
+Dunfermline & Fife West	696.5	216.359	3
+Durham, City of	659	238.01	3
+Durham North	846.5	562.775	3
+Durham North West	809	584.426	3
+Dwyfor Meirionnydd	771.5	562.775	3
+Ealing Central & Acton	471.5	1125.701	3
+Ealing North	884	1407.164	3
+Ealing Southall	846.5	1428.815	3
+Easington	846.5	1472.117	3
+East Ham	921.5	519.473	3
+East Kilbride, Strathaven & Lesmahagow	1184	1450.466	3
+East Lothian	546.5	432.869	3
+Eastbourne	734	367.916	3
+Eastleigh	1221.5	1688.627	3
+Eddisbury	771.5	1731.929	3
+Edinburgh East	584	974.144	3
+Edinburgh North & Leith	696.5	346.265	3
+Edinburgh South	696.5	389.567	3
+Edinburgh South West	659	411.218	3
+Edinburgh West	659	367.916	3
+Edmonton	659	324.614	3
+Ellesmere Port & Neston	1109	1363.862	3
+Elmet & Rothwell	509	930.842	3
+Eltham	959	671.03	3
+Enfield North	1146.5	1515.419	3
+Enfield Southgate	1071.5	1342.211	3
+Epping Forest	1034	1320.56	3
+Epsom & Ewell	1109	1320.56	3
+Erewash	884	1623.674	3
+Erith & Thamesmead	959	1060.748	3
+Esher & Walton	1184	1537.07	3
+Exeter	809	1580.372	3
+Falkirk	396.5	1775.231	3
+Fareham	621.5	259.661	3
+Faversham & Kent Mid	809	1753.58	3
+Feltham & Heston	1296.5	1602.023	3
+Fermanagh & South Tyrone	846.5	1515.419	3
+Fife North East	21.5	692.681	3
+Filton & Bradley Stoke	734	238.01	3
+Finchley & Golders Green	546.5	1515.419	3
+Folkestone & Hythe	996.5	1342.211	3
+Forest of Dean	1296.5	1645.325	3
+Foyle	584	1450.466	3
+Fylde	59	627.728	3
+Gainsborough	584	714.332	3
+Garston & Halewood	1109	1017.446	3
+Gateshead	584	930.842	3
+Gedling	846.5	519.473	3
+Gillingham & Rainham	1071.5	1039.097	3
+Glasgow Central	1334	1580.372	3
+Glasgow East	546.5	346.265	3
+Glasgow North	584	324.614	3
+Glasgow North East	546.5	302.963	3
+Glasgow North West	584	281.312	3
+Glasgow South	509	281.312	3
+Glasgow South West	584	411.218	3
+Glenrothes	509	324.614	3
+Gloucester	696.5	259.661	3
+Gordon	621.5	1472.117	3
+Gosport	621.5	129.755	3
+Gower	846.5	1731.929	3
+Grantham & Stamford	359	1450.466	3
+Gravesham	1071.5	1169.003	3
+Great Grimsby	1259	1537.07	3
+Great Yarmouth	1259	1233.956	3
+Greenwich & Woolwich	1146.5	1472.117	3
+Guildford	1109	930.842	3
+Hackney North & Stoke Newington	846.5	1645.325	3
+Hackney South & Shoreditch	1034	1407.164	3
+Halesowen & Rowley Regis	1071.5	1428.815	3
+Halifax	659	1233.956	3
+Haltemprice & Howden	846.5	822.587	3
+Halton	1071.5	779.285	3
+Hammersmith	621.5	909.191	3
+Hampshire East	921.5	1515.419	3
+Hampshire North East	884	1666.976	3
+Hampshire North West	734	1623.674	3
+Hampstead & Kilburn	659	1623.674	3
+Harborough	921.5	1428.815	3
+Harlow	921.5	1169.003	3
+Harrogate & Knaresborough	1071.5	1298.909	3
+Harrow East	996.5	649.379	3
+Harrow West	921.5	1342.211	3
+Hartlepool	884	1363.862	3
+Harwich & Essex North	959	541.124	3
+Hastings & Rye	1259	1320.56	3
+Havant	1259	1666.976	3
+Hayes & Harlington	921.5	1688.627	3
+Hazel Grove	809	1493.768	3
+Hemel Hempstead	809	930.842	3
+Hemsworth	1034	1233.956	3
+Hendon	1034	757.634	3
+Henley	959	1320.56	3
+Hereford & Herefordshire South	734	1363.862	3
+Herefordshire North	621.5	1385.513	3
+Hertford & Stortford	584	1277.258	3
+Hertfordshire North East	1071.5	1255.607	3
+Hertfordshire South West	1071.5	1212.305	3
+Hertsmere	846.5	1342.211	3
+Hexham	921.5	1298.909	3
+Heywood & Middleton	734	497.822	3
+High Peak	771.5	692.681	3
+Hitchin & Harpenden	846.5	952.493	3
+Holborn & St Pancras	921.5	1255.607	3
+Hornchurch & Upminster	996.5	1428.815	3
+Hornsey & Wood Green	1259	1493.768	3
+Horsham	959	1407.164	3
+Houghton & Sunderland South	1071.5	1645.325	3
+Hove	884	541.124	3
+Huddersfield	1109	1710.278	3
+Hull East	884	844.238	3
+Hull North	1071.5	865.889	3
+Hull West & Hessle	1071.5	822.587	3
+Huntingdon	1071.5	909.191	3
+Hyndburn	921.5	1212.305	3
+Ilford North	771.5	649.379	3
+Ilford South	1184	1407.164	3
+Inverclyde	1221.5	1428.815	3
+Inverness, Nairn, Badenoch & Strathspey	471.5	302.963	3
+Ipswich	584	151.406	3
+Isle of Wight	1259	1277.258	3
+Islington North	734	1796.882	3
+Islington South & Finsbury	996.5	1385.513	3
+Islwyn	1034	1450.466	3
+Jarrow	546.5	1342.211	3
+Keighley	846.5	476.171	3
+Kenilworth & Southam	846.5	692.681	3
+Kensington	734	1277.258	3
+Kettering	921.5	1472.117	3
+Kilmarnock & Loudoun	959	1147.352	3
+Kingston & Surbiton	584	454.52	3
+Kingswood	846.5	1602.023	3
+Kirkcaldy & Cowdenbeath	584	1537.07	3
+Knowsley	659	281.312	3
+Lagan Valley	584	844.238	3
+Lanark & Hamilton East	134	757.634	3
+Lancashire West	621.5	432.869	3
+Lancaster & Fleetwood	584	757.634	3
+Leeds Central	771.5	606.077	3
+Leeds East	884	757.634	3
+Leeds North East	996.5	779.285	3
+Leeds North West	959	757.634	3
+Leeds West	921.5	735.983	3
+Leicester East	921.5	692.681	3
+Leicester South	921.5	1125.701	3
+Leicester West	884	1190.654	3
+Leicestershire North West	884	1147.352	3
+Leicestershire South	884	1104.05	3
+Leigh	846.5	1169.003	3
+Lewes	621.5	822.587	3
+Lewisham Deptford	1184	1666.976	3
+Lewisham East	1109	1493.768	3
+Lewisham West & Penge	1071.5	1558.721	3
+Leyton & Wanstead	1034	1580.372	3
+Lichfield	1109	1407.164	3
+Lincoln	771.5	995.795	3
+Linlithgow & Falkirk East	1071.5	1082.399	3
+Liverpool Riverside	621.5	302.963	3
+Liverpool Walton	546.5	952.493	3
+Liverpool Wavertree	546.5	822.587	3
+Liverpool West Derby	546.5	909.191	3
+Livingston	546.5	865.889	3
+Llanelli	659	454.52	3
+Londonderry East	359	1407.164	3
+Loughborough	96.5	606.077	3
+Louth & Horncastle	921.5	1082.399	3
+Ludlow	1109	1060.748	3
+Luton North	584	1190.654	3
+Luton South	846.5	1298.909	3
+Macclesfield	884	1277.258	3
+Maidenhead	771.5	909.191	3
+Maidstone & The Weald	734	1537.07	3
+Makerfield	1259	1580.372	3
+Maldon	621.5	779.285	3
+Manchester Central	1334	1363.862	3
+Manchester Gorton	734	800.936	3
+Manchester Withington	659	800.936	3
+Mansfield	734	844.238	3
+Meon Valley	996.5	952.493	3
+Meriden	809	1710.278	3
+Merthyr Tydfil & Rhymney	771.5	1125.701	3
+Middlesbrough	509	1320.56	3
+Middlesbrough South & Cleveland East	959	584.426	3
+Midlothian	996.5	606.077	3
+Milton Keynes North	696.5	476.171	3
+Milton Keynes South	771.5	1342.211	3
+Mitcham & Morden	771.5	1385.513	3
+Mole Valley	921.5	1602.023	3
+Monmouth	809	1623.674	3
+Montgomeryshire	584	1363.862	3
+Moray	546.5	1169.003	3
+Morecambe & Lunesdale	621.5	173.057	3
+Morley & Outwood	696.5	606.077	3
+Motherwell & Wishaw	959	800.936	3
+Na h-Eileanan an Iar (Western Isles)	621.5	389.567	3
+Neath	471.5	129.755	3
+New Forest East	434	1363.862	3
+New Forest West	659	1710.278	3
+Newark	659	1753.58	3
+Newbury	1071.5	995.795	3
+Newcastle-under-Lyme	659	1580.372	3
+Newcastle upon Tyne Central	771.5	519.473	3
+Newcastle upon Tyne East	809	541.124	3
+Newcastle upon Tyne North	771.5	476.171	3
+Newport East	584	1017.446	3
+Newport West	584	1407.164	3
+Newry & Armagh	546.5	1472.117	3
+Newton Abbot	59	757.634	3
+Norfolk Mid	434	1796.882	3
+Norfolk North	996.5	1169.003	3
+Norfolk North West	1221.5	1212.305	3
+Norfolk South	1146.5	1169.003	3
+Norfolk South West	1221.5	1255.607	3
+Normanton, Pontefract & Castleford	1109	1233.956	3
+Northampton North	959	714.332	3
+Northampton South	809	1233.956	3
+Northamptonshire South 	809	1277.258	3
+Norwich North	771.5	1298.909	3
+Norwich South	1146.5	1212.305	3
+Nottingham East	1184	1233.956	3
+Nottingham North	1034	1060.748	3
+Nottingham South	1034	1017.446	3
+Nuneaton	996.5	1082.399	3
+Ochil & South Perthshire	809	1060.748	3
+Ogmore	621.5	216.359	3
+Old Bexley & Sidcup	434	1450.466	3
+Oldham East & Saddleworth	1184	1493.768	3
+Oldham West & Royton	809	844.238	3
+Orkney & Shetland	771.5	735.983	3
+Orpington	659	21.5	3
+Oxford East	1109	1580.372	3
+Oxford West & Abingdon	734	1493.768	3
+Paisley & Renfrewshire North	696.5	1515.419	3
+Paisley & Renfrewshire South	509	238.01	3
+Pendle	509	367.916	3
+Penistone & Stocksbridge	809	671.03	3
+Penrith & The Border	884	930.842	3
+Perth & North Perthshire	696.5	519.473	3
+Peterborough	584	194.708	3
+Plymouth Moor View	1034	1190.654	3
+Plymouth Sutton & Devonport	359	1796.882	3
+Pontypridd	321.5	1818.533	3
+Poole	471.5	1385.513	3
+Poplar & Limehouse	546.5	1731.929	3
+Portsmouth North	1071.5	1472.117	3
+Portsmouth South	846.5	1688.627	3
+Preseli Pembrokeshire	884	1710.278	3
+Preston	321.5	1385.513	3
+Pudsey	659	671.03	3
+Putney	884	671.03	3
+Rayleigh & Wickford	884	1537.07	3
+Reading East	1259	1363.862	3
+Reading West	696.5	1558.721	3
+Redcar	696.5	1602.023	3
+Redditch	996.5	562.775	3
+Reigate	659	1320.56	3
+Renfrewshire East	921.5	1645.325	3
+Rhondda	546.5	389.567	3
+South Ribble	471.5	1342.211	3
+Ribble Valley	546.5	779.285	3
+Richmond (Yorks)	809	627.728	3
+Richmond Park	884	627.728	3
+Rochdale	884	1493.768	3
+Rochester & Strood	809	800.936	3
+Rochford & Southend East	1296.5	1515.419	3
+Romford	1334	1407.164	3
+Romsey & Southampton North	1259	1450.466	3
+Ross, Skye & Lochaber	659	1666.976	3
+Rossendale & Darwen	546.5	129.755	3
+Rotherham	809	757.634	3
+Rother Valley	1034	930.842	3
+Rugby	959	844.238	3
+Ruislip, Northwood & Pinner	771.5	1212.305	3
+Runnymede & Weybridge	846.5	1385.513	3
+Rushcliffe	771.5	1515.419	3
+Rutherglen & Hamilton West	1034	1104.05	3
+Rutland & Melton	621.5	476.171	3
+Saffron Walden	1034	1147.352	3
+Salford & Eccles	1184	1363.862	3
+Salisbury	696.5	779.285	3
+Scarborough & Whitby	621.5	1688.627	3
+Scunthorpe	1034	671.03	3
+Sedgefield	1071.5	952.493	3
+Sefton Central	884	584.426	3
+Selby & Ainsty	509	844.238	3
+Sevenoaks	996.5	692.681	3
+Sheffield Brightside & Hillsborough	1146.5	1602.023	3
+Sheffield Central	959	887.54	3
+Sheffield Hallam	921.5	909.191	3
+Sheffield Heeley	921.5	952.493	3
+Sheffield South East	959	930.842	3
+Sherwood	996.5	909.191	3
+Shipley	996.5	995.795	3
+Shrewsbury & Atcham	921.5	649.379	3
+Shropshire North	584	1104.05	3
+Sittingbourne & Sheppey	584	1060.748	3
+Skipton & Ripon	1334	1537.07	3
+Sleaford & North Hykeham	846.5	649.379	3
+Slough	1071.5	1125.701	3
+Solihull	771.5	1472.117	3
+Somerset North	734	1233.956	3
+Somerset North East	471.5	1602.023	3
+Somerton & Frome	546.5	1645.325	3
+Southampton Itchen	471.5	1688.627	3
+Southampton Test	1109	1147.352	3
+Southend West	884	454.52	3
+South Holland & The Deepings	734	1710.278	3
+Southport	696.5	1731.929	3
+South Shields	1296.5	1385.513	3
+Spelthorne	509	800.936	3
+Stafford	771.5	1558.721	3
+Staffordshire Moorlands	996.5	1255.607	3
+Staffordshire South	246.5	1818.533	3
+St Albans	584	800.936	3
+Stalybridge & Hyde	584	887.54	3
+St Austell & Newquay	171.5	1861.835	3
+Stevenage	734	1017.446	3
+St Helens North	696.5	952.493	3
+St Helens South & Whiston	621.5	1039.097	3
+Stirling	809	887.54	3
+St Ives	959	1233.956	3
+Stockport	546.5	173.057	3
+Stockton North	771.5	865.889	3
+Stockton South	921.5	562.775	3
+Stoke-on-Trent Central	959	627.728	3
+Stoke-on-Trent North	659	974.144	3
+Stoke-on-Trent South	621.5	995.795	3
+Stone	659	1017.446	3
+Stourbridge	734	974.144	3
+Strangford	621.5	1255.607	3
+Stratford-on-Avon	171.5	779.285	3
+Streatham	734	1320.56	3
+Stretford & Urmston	996.5	1558.721	3
+Stroud	659	757.634	3
+Suffolk Central & Ipswich North	621.5	1515.419	3
+Suffolk Coastal	1296.5	1298.909	3
+Suffolk South	1334	1277.258	3
+Suffolk West	1221.5	1298.909	3
+Sunderland Central	1146.5	1255.607	3
+Surrey East	921.5	476.171	3
+Surrey Heath	1109	1623.674	3
+Surrey South West	771.5	1602.023	3
+Sussex Mid	809	1666.976	3
+Sutton & Cheam	1146.5	1645.325	3
+Sutton Coldfield	884	1580.372	3
+Swansea East	771.5	1082.399	3
+Swansea West	396.5	1472.117	3
+Swindon North	396.5	1428.815	3
+Swindon South	659	1493.768	3
+Tamworth	621.5	1558.721	3
+Tatton	809	974.144	3
+Taunton Deane	696.5	909.191	3
+Telford	396.5	1731.929	3
+Tewkesbury	621.5	1082.399	3
+Thanet North	621.5	1428.815	3
+Thanet South	1409	1580.372	3
+Thirsk & Malton	1371.5	1602.023	3
+Thornbury & Yate	1071.5	735.983	3
+Thurrock	584	1493.768	3
+Tiverton & Honiton	1296.5	1472.117	3
+Tonbridge & Malling	471.5	1731.929	3
+Tooting	1184	1580.372	3
+Torbay	959	1580.372	3
+Torfaen	396.5	1818.533	3
+Totnes	584	1320.56	3
+Tottenham	396.5	1861.835	3
+Truro & Falmouth	1034	1363.862	3
+Tunbridge Wells	246.5	1861.835	3
+Twickenham	1221.5	1602.023	3
+Tynemouth	846.5	1558.721	3
+Tyneside North	846.5	432.869	3
+Tyrone West	809	497.822	3
+Ulster Mid	21.5	649.379	3
+Upper Bann	59	671.03	3
+Uxbridge & Ruislip South	96.5	779.285	3
+Vale of Clwyd	809	1450.466	3
+Vale of Glamorgan	509	1060.748	3
+Vauxhall	471.5	1472.117	3
+Wakefield	996.5	1515.419	3
+Wallasey	921.5	779.285	3
+Walsall North	471.5	952.493	3
+Walsall South	696.5	1039.097	3
+Walthamstow	696.5	1082.399	3
+Wansbeck	1071.5	1385.513	3
+Wantage	771.5	432.869	3
+Warley	659	1537.07	3
+Warrington North	659	1147.352	3
+Warrington South	621.5	865.889	3
+Warwick & Leamington	659	887.54	3
+Warwickshire North	771.5	1255.607	3
+Washington & Sunderland West	809	1017.446	3
+Watford	884	497.822	3
+Waveney	884	1320.56	3
+Wealden	1296.5	1255.607	3
+Weaver Vale	1184	1623.674	3
+Wellingborough	621.5	952.493	3
+Wells	846.5	1212.305	3
+Welwyn Hatfield	434	1666.976	3
+Wentworth & Dearne	959	1277.258	3
+West Bromwich East	996.5	822.587	3
+West Bromwich West	696.5	1125.701	3
+West Ham	621.5	1212.305	3
+Westminster North	1146.5	1428.815	3
+Westmorland & Lonsdale	959	1450.466	3
+Weston-Super-Mare	734	584.426	3
+Wigan	471.5	1645.325	3
+Wiltshire North	621.5	735.983	3
+Wiltshire South West	621.5	1602.023	3
+Wimbledon	509	1666.976	3
+Winchester	921.5	1558.721	3
+Windsor	771.5	1688.627	3
+Wirral South	809	1537.07	3
+Wirral West	509	974.144	3
+Witham	471.5	995.795	3
+Witney	1296.5	1342.211	3
+Woking	696.5	1428.815	3
+Wokingham	771.5	1645.325	3
+Wolverhampton North East	696.5	1645.325	3
+Wolverhampton South East	696.5	995.795	3
+Wolverhampton South West	659	1104.05	3
+Worcester	659	1060.748	3
+Worcestershire Mid	621.5	1342.211	3
+Worcestershire West	696.5	1342.211	3
+Workington	659	1363.862	3
+Worsley & Eccles South	659	541.124	3
+Worthing East & Shoreham	659	844.238	3
+Worthing West	1071.5	1688.627	3
+Wrekin, The	1034	1710.278	3
+Wrexham	584	1147.352	3
+Wycombe	546.5	1082.399	3
+Wyre & Preston North	734	1450.466	3
+Wyre Forest	734	627.728	3
+Wythenshawe & Sale East	584	1233.956	3
+Yeovil	696.5	822.587	3
+Ynys Mon	434	1710.278	3
+York Central	396.5	1039.097	3
+York Outer	996.5	735.983	3
+Yorkshire East	1034	714.332	3
+Aberavon	421.5	1428.815	4
+Aberconwy	459	1104.05	4
+Aberdeen North	684	151.406	4
+Aberdeen South	721.5	173.057	4
+Aberdeenshire West & Kincardine	646.5	173.057	4
+Airdrie & Shotts	609	367.916	4
+Aldershot	721.5	1688.627	4
+Aldridge-Brownhills	759	1060.748	4
+Altrincham & Sale West	684	887.54	4
+Alyn & Deeside	534	1060.748	4
+Amber Valley	909	1060.748	4
+Angus	684	194.708	4
+Antrim East	159	671.03	4
+Antrim North	121.5	649.379	4
+Arfon	84	671.03	4
+Argyll & Bute	421.5	1125.701	4
+Arundel & South Downs	496.5	216.359	4
+Ashfield	1021.5	1688.627	4
+Ashford	946.5	1039.097	4
+Ashton Under Lyne	1246.5	1645.325	4
+Aylesbury	759	800.936	4
+Ayr, Carrick & Cumnock	684	1493.768	4
+Ayrshire Central	534	497.822	4
+Ayrshire North & Arran	496.5	476.171	4
+Banbury	496.5	432.869	4
+Banff & Buchan	684	1407.164	4
+Barking	646.5	129.755	4
+Barnsley Central	1209	1493.768	4
+Barnsley East	871.5	909.191	4
+Barrow & Furness	909	887.54	4
+Basildon & Billericay	646.5	649.379	4
+Basildon South & Thurrock East	1246.5	1428.815	4
+Basingstoke	1284	1450.466	4
+Bassetlaw	684	1710.278	4
+Bath	1021.5	995.795	4
+Batley & Spen	571.5	1602.023	4
+Battersea	871.5	822.587	4
+Beaconsfield	946.5	1558.721	4
+Beckenham	759	1450.466	4
+Bedford	1059	1623.674	4
+Bedfordshire Mid	871.5	1255.607	4
+Bedfordshire North East	796.5	1342.211	4
+Bedfordshire South West	834	1277.258	4
+Belfast East	796.5	1385.513	4
+Belfast North	121.5	735.983	4
+Belfast South	121.5	692.681	4
+Belfast West	84	757.634	4
+Bermondsey & Old Southwark	84	714.332	4
+Berwickshire, Roxburgh & Selkirk	1021.5	1515.419	4
+Berwick-upon-Tweed	684	454.52	4
+Bethnal Green & Bow	721.5	476.171	4
+Beverley & Holderness	1096.5	1472.117	4
+Bexhill & Battle	1096.5	822.587	4
+Bexleyheath & Crayford	1209	1666.976	4
+Birkenhead	1134	1580.372	4
+Birmingham Edgbaston	496.5	909.191	4
+Birmingham Erdington	609	1320.56	4
+Birmingham Hall Green	721.5	1125.701	4
+Birmingham Hodge Hill	684	1277.258	4
+Birmingham Ladywood	721.5	1169.003	4
+Birmingham Northfield	684	1233.956	4
+Birmingham Perry Barr	646.5	1298.909	4
+Birmingham Selly Oak	684	1190.654	4
+Birmingham Yardley	646.5	1212.305	4
+Bishop Auckland	721.5	1212.305	4
+Blackburn	834	627.728	4
+Blackley & Broughton	684	671.03	4
+Blackpool North & Cleveleys	721.5	779.285	4
+Blackpool South	609	671.03	4
+Blaenau Gwent	571.5	692.681	4
+Blaydon	534	1320.56	4
+Blyth Valley	721.5	562.775	4
+Bognor Regis & Littlehampton	796.5	476.171	4
+Bolsover	984	1710.278	4
+Bolton North East	946.5	995.795	4
+Bolton South East	684	714.332	4
+Bolton West	684	757.634	4
+Bootle	646.5	735.983	4
+Boston & Skegness	459	930.842	4
+Bosworth	1096.5	1125.701	4
+Bournemouth East	834	1147.352	4
+Bournemouth West	571.5	1731.929	4
+Bracknell	571.5	1688.627	4
+Bradford East	721.5	1602.023	4
+Bradford South	871.5	735.983	4
+Bradford West	834	800.936	4
+Braintree	834	757.634	4
+Brecon & Radnorshire	1171.5	1342.211	4
+Brent Central	534	1233.956	4
+Brent North	946.5	1385.513	4
+Brentford & Isleworth	909	1407.164	4
+Brentwood & Ongar	871.5	1472.117	4
+Bridgend	1134	1363.862	4
+Bridgwater & Somerset West	421.5	1515.419	4
+Brigg & Goole	384	1710.278	4
+Brighton Kemptown	1021.5	909.191	4
+Brighton Pavilion	1134	1710.278	4
+Bristol East	1096.5	1688.627	4
+Bristol North West	534	1580.372	4
+Bristol South	496.5	1602.023	4
+Bristol West	496.5	1645.325	4
+Broadland	534	1623.674	4
+Bromley & Chislehurst	1171.5	1212.305	4
+Bromsgrove	1096.5	1558.721	4
+Broxbourne	684	1320.56	4
+Broxtowe	1021.5	1298.909	4
+Buckingham	984	1060.748	4
+Burnley	796.5	1428.815	4
+Burton	796.5	735.983	4
+Bury North	759	974.144	4
+Bury South	721.5	692.681	4
+Bury St Edmunds	721.5	735.983	4
+Caerphilly	1171.5	1298.909	4
+Caithness, Sutherland & Easter Ross	534	1407.164	4
+Calder Valley	534	108.104	4
+Camberwell & Peckham	834	887.54	4
+Camborne & Redruth	1059	1537.07	4
+Cambridge	196.5	1861.835	4
+Cambridgeshire North East	1096.5	1298.909	4
+Cambridgeshire North West	1096.5	1212.305	4
+Cambridgeshire South	946.5	1212.305	4
+Cambridgeshire South East	984	1233.956	4
+Cannock Chase	1134	1320.56	4
+Canterbury	721.5	1082.399	4
+Cardiff Central	1359	1580.372	4
+Cardiff North	496.5	1428.815	4
+Cardiff South & Penarth	534	1450.466	4
+Cardiff West	496.5	1472.117	4
+Carlisle	459	1450.466	4
+Carmarthen East & Dinefwr	684	584.426	4
+Carmarthen West & Pembrokeshire South	384	1407.164	4
+Carshalton & Wallington	309	1450.466	4
+Castle Point	946.5	1645.325	4
+Ceredigion	1321.5	1472.117	4
+Charnwood	534	1277.258	4
+Chatham & Aylesford	946.5	1125.701	4
+Cheadle	1284	1580.372	4
+Chelmsford	721.5	909.191	4
+Chelsea & Fulham	1209	1407.164	4
+Cheltenham	946.5	1515.419	4
+Chesham & Amersham	646.5	1428.815	4
+Chester, City of	721.5	1428.815	4
+Chesterfield	534	1017.446	4
+Chichester	909	1017.446	4
+Chingford & Woodford Green	946.5	1731.929	4
+Chippenham	1134	1407.164	4
+Chipping Barnet	571.5	1645.325	4
+Chorley	984	1320.56	4
+Christchurch	609	714.332	4
+Cities of London & Westminster	609	1753.58	4
+Clacton	984	1493.768	4
+Cleethorpes	1321.5	1342.211	4
+Clwyd South	1096.5	995.795	4
+Clwyd West	534	1147.352	4
+Coatbridge, Chryston & Bellshill	496.5	1125.701	4
+Colchester	571.5	389.567	4
+Colne Valley	1209	1363.862	4
+Congleton	834	930.842	4
+Copeland	721.5	952.493	4
+Corby	646.5	606.077	4
+Cornwall North	984	1147.352	4
+Cornwall South East	271.5	1818.533	4
+Cotswolds, The	271.5	1861.835	4
+Coventry North East	646.5	1472.117	4
+Coventry North West	796.5	1125.701	4
+Coventry South	796.5	1169.003	4
+Crawley	759	1190.654	4
+Crewe & Nantwich	946.5	1688.627	4
+Croydon Central	646.5	952.493	4
+Croydon North	1021.5	1645.325	4
+Croydon South	984	1623.674	4
+Cumbernauld, Kilsyth & Kirkintilloch East	984	1666.976	4
+Cynon Valley	571.5	259.661	4
+Dagenham & Rainham	496.5	1385.513	4
+Darlington	1209	1537.07	4
+Dartford	909	627.728	4
+Daventry	1209	1580.372	4
+Delyn	796.5	1212.305	4
+Denton & Reddish	496.5	1039.097	4
+Derby North	759	844.238	4
+Derby South	834	1060.748	4
+Derbyshire Dales	871.5	1082.399	4
+Derbyshire Mid	834	1017.446	4
+Derbyshire North East	871.5	1039.097	4
+Derbyshire South	871.5	995.795	4
+Devizes	834	1104.05	4
+Devon Central	609	1666.976	4
+Devon East	346.5	1775.231	4
+Devon North	421.5	1775.231	4
+Devon South West	346.5	1731.929	4
+Devon West & Torridge	346.5	1861.835	4
+Dewsbury	309	1796.882	4
+Don Valley	909	844.238	4
+Doncaster Central	984	887.54	4
+Doncaster North	1021.5	865.889	4
+Dorset Mid & Poole North	1021.5	822.587	4
+Dorset North	496.5	1731.929	4
+Dorset South	534	1710.278	4
+Dorset West	534	1796.882	4
+Dover	496.5	1775.231	4
+Down North	1321.5	1645.325	4
+Down South	159	757.634	4
+Dudley North	121.5	822.587	4
+Dudley South	609	1147.352	4
+Dulwich & West Norwood	609	1190.654	4
+Dumfries & Galloway	1021.5	1558.721	4
+Dumfriesshire, Clydesdale & Tweeddale	571.5	519.473	4
+Dunbartonshire East	646.5	519.473	4
+Dunbartonshire West	534	281.312	4
+Dundee East	534	238.01	4
+Dundee West	646.5	216.359	4
+Dunfermline & Fife West	684	238.01	4
+Durham, City of	646.5	259.661	4
+Durham North	834	584.426	4
+Durham North West	796.5	606.077	4
+Dwyfor Meirionnydd	759	584.426	4
+Ealing Central & Acton	459	1147.352	4
+Ealing North	871.5	1428.815	4
+Ealing Southall	834	1450.466	4
+Easington	834	1493.768	4
+East Ham	909	541.124	4
+East Kilbride, Strathaven & Lesmahagow	1171.5	1472.117	4
+East Lothian	534	454.52	4
+Eastbourne	721.5	389.567	4
+Eastleigh	1209	1710.278	4
+Eddisbury	759	1753.58	4
+Edinburgh East	571.5	995.795	4
+Edinburgh North & Leith	684	367.916	4
+Edinburgh South	684	411.218	4
+Edinburgh South West	646.5	432.869	4
+Edinburgh West	646.5	389.567	4
+Edmonton	646.5	346.265	4
+Ellesmere Port & Neston	1096.5	1385.513	4
+Elmet & Rothwell	496.5	952.493	4
+Eltham	946.5	692.681	4
+Enfield North	1134	1537.07	4
+Enfield Southgate	1059	1363.862	4
+Epping Forest	1021.5	1342.211	4
+Epsom & Ewell	1096.5	1342.211	4
+Erewash	871.5	1645.325	4
+Erith & Thamesmead	946.5	1082.399	4
+Esher & Walton	1171.5	1558.721	4
+Exeter	796.5	1602.023	4
+Falkirk	384	1796.882	4
+Fareham	609	281.312	4
+Faversham & Kent Mid	796.5	1775.231	4
+Feltham & Heston	1284	1623.674	4
+Fermanagh & South Tyrone	834	1537.07	4
+Fife North East	9	714.332	4
+Filton & Bradley Stoke	721.5	259.661	4
+Finchley & Golders Green	534	1537.07	4
+Folkestone & Hythe	984	1363.862	4
+Forest of Dean	1284	1666.976	4
+Foyle	571.5	1472.117	4
+Fylde	46.5	649.379	4
+Gainsborough	571.5	735.983	4
+Garston & Halewood	1096.5	1039.097	4
+Gateshead	571.5	952.493	4
+Gedling	834	541.124	4
+Gillingham & Rainham	1059	1060.748	4
+Glasgow Central	1321.5	1602.023	4
+Glasgow East	534	367.916	4
+Glasgow North	571.5	346.265	4
+Glasgow North East	534	324.614	4
+Glasgow North West	571.5	302.963	4
+Glasgow South	496.5	302.963	4
+Glasgow South West	571.5	432.869	4
+Glenrothes	496.5	346.265	4
+Gloucester	684	281.312	4
+Gordon	609	1493.768	4
+Gosport	609	151.406	4
+Gower	834	1753.58	4
+Grantham & Stamford	346.5	1472.117	4
+Gravesham	1059	1190.654	4
+Great Grimsby	1246.5	1558.721	4
+Great Yarmouth	1246.5	1255.607	4
+Greenwich & Woolwich	1134	1493.768	4
+Guildford	1096.5	952.493	4
+Hackney North & Stoke Newington	834	1666.976	4
+Hackney South & Shoreditch	1021.5	1428.815	4
+Halesowen & Rowley Regis	1059	1450.466	4
+Halifax	646.5	1255.607	4
+Haltemprice & Howden	834	844.238	4
+Halton	1059	800.936	4
+Hammersmith	609	930.842	4
+Hampshire East	909	1537.07	4
+Hampshire North East	871.5	1688.627	4
+Hampshire North West	721.5	1645.325	4
+Hampstead & Kilburn	646.5	1645.325	4
+Harborough	909	1450.466	4
+Harlow	909	1190.654	4
+Harrogate & Knaresborough	1059	1320.56	4
+Harrow East	984	671.03	4
+Harrow West	909	1363.862	4
+Hartlepool	871.5	1385.513	4
+Harwich & Essex North	946.5	562.775	4
+Hastings & Rye	1246.5	1342.211	4
+Havant	1246.5	1688.627	4
+Hayes & Harlington	909	1710.278	4
+Hazel Grove	796.5	1515.419	4
+Hemel Hempstead	796.5	952.493	4
+Hemsworth	1021.5	1255.607	4
+Hendon	1021.5	779.285	4
+Henley	946.5	1342.211	4
+Hereford & Herefordshire South	721.5	1385.513	4
+Herefordshire North	609	1407.164	4
+Hertford & Stortford	571.5	1298.909	4
+Hertfordshire North East	1059	1277.258	4
+Hertfordshire South West	1059	1233.956	4
+Hertsmere	834	1363.862	4
+Hexham	909	1320.56	4
+Heywood & Middleton	721.5	519.473	4
+High Peak	759	714.332	4
+Hitchin & Harpenden	834	974.144	4
+Holborn & St Pancras	909	1277.258	4
+Hornchurch & Upminster	984	1450.466	4
+Hornsey & Wood Green	1246.5	1515.419	4
+Horsham	946.5	1428.815	4
+Houghton & Sunderland South	1059	1666.976	4
+Hove	871.5	562.775	4
+Huddersfield	1096.5	1731.929	4
+Hull East	871.5	865.889	4
+Hull North	1059	887.54	4
+Hull West & Hessle	1059	844.238	4
+Huntingdon	1059	930.842	4
+Hyndburn	909	1233.956	4
+Ilford North	759	671.03	4
+Ilford South	1171.5	1428.815	4
+Inverclyde	1209	1450.466	4
+Inverness, Nairn, Badenoch & Strathspey	459	324.614	4
+Ipswich	571.5	173.057	4
+Isle of Wight	1246.5	1298.909	4
+Islington North	721.5	1818.533	4
+Islington South & Finsbury	984	1407.164	4
+Islwyn	1021.5	1472.117	4
+Jarrow	534	1363.862	4
+Keighley	834	497.822	4
+Kenilworth & Southam	834	714.332	4
+Kensington	721.5	1298.909	4
+Kettering	909	1493.768	4
+Kilmarnock & Loudoun	946.5	1169.003	4
+Kingston & Surbiton	571.5	476.171	4
+Kingswood	834	1623.674	4
+Kirkcaldy & Cowdenbeath	571.5	1558.721	4
+Knowsley	646.5	302.963	4
+Lagan Valley	571.5	865.889	4
+Lanark & Hamilton East	121.5	779.285	4
+Lancashire West	609	454.52	4
+Lancaster & Fleetwood	571.5	779.285	4
+Leeds Central	759	627.728	4
+Leeds East	871.5	779.285	4
+Leeds North East	984	800.936	4
+Leeds North West	946.5	779.285	4
+Leeds West	909	757.634	4
+Leicester East	909	714.332	4
+Leicester South	909	1147.352	4
+Leicester West	871.5	1212.305	4
+Leicestershire North West	871.5	1169.003	4
+Leicestershire South	871.5	1125.701	4
+Leigh	834	1190.654	4
+Lewes	609	844.238	4
+Lewisham Deptford	1171.5	1688.627	4
+Lewisham East	1096.5	1515.419	4
+Lewisham West & Penge	1059	1580.372	4
+Leyton & Wanstead	1021.5	1602.023	4
+Lichfield	1096.5	1428.815	4
+Lincoln	759	1017.446	4
+Linlithgow & Falkirk East	1059	1104.05	4
+Liverpool Riverside	609	324.614	4
+Liverpool Walton	534	974.144	4
+Liverpool Wavertree	534	844.238	4
+Liverpool West Derby	534	930.842	4
+Livingston	534	887.54	4
+Llanelli	646.5	476.171	4
+Londonderry East	346.5	1428.815	4
+Loughborough	84	627.728	4
+Louth & Horncastle	909	1104.05	4
+Ludlow	1096.5	1082.399	4
+Luton North	571.5	1212.305	4
+Luton South	834	1320.56	4
+Macclesfield	871.5	1298.909	4
+Maidenhead	759	930.842	4
+Maidstone & The Weald	721.5	1558.721	4
+Makerfield	1246.5	1602.023	4
+Maldon	609	800.936	4
+Manchester Central	1321.5	1385.513	4
+Manchester Gorton	721.5	822.587	4
+Manchester Withington	646.5	822.587	4
+Mansfield	721.5	865.889	4
+Meon Valley	984	974.144	4
+Meriden	796.5	1731.929	4
+Merthyr Tydfil & Rhymney	759	1147.352	4
+Middlesbrough	496.5	1342.211	4
+Middlesbrough South & Cleveland East	946.5	606.077	4
+Midlothian	984	627.728	4
+Milton Keynes North	684	497.822	4
+Milton Keynes South	759	1363.862	4
+Mitcham & Morden	759	1407.164	4
+Mole Valley	909	1623.674	4
+Monmouth	796.5	1645.325	4
+Montgomeryshire	571.5	1385.513	4
+Moray	534	1190.654	4
+Morecambe & Lunesdale	609	194.708	4
+Morley & Outwood	684	627.728	4
+Motherwell & Wishaw	946.5	822.587	4
+Na h-Eileanan an Iar (Western Isles)	609	411.218	4
+Neath	459	151.406	4
+New Forest East	421.5	1385.513	4
+New Forest West	646.5	1731.929	4
+Newark	646.5	1775.231	4
+Newbury	1059	1017.446	4
+Newcastle-under-Lyme	646.5	1602.023	4
+Newcastle upon Tyne Central	759	541.124	4
+Newcastle upon Tyne East	796.5	562.775	4
+Newcastle upon Tyne North	759	497.822	4
+Newport East	571.5	1039.097	4
+Newport West	571.5	1428.815	4
+Newry & Armagh	534	1493.768	4
+Newton Abbot	46.5	779.285	4
+Norfolk Mid	421.5	1818.533	4
+Norfolk North	984	1190.654	4
+Norfolk North West	1209	1233.956	4
+Norfolk South	1134	1190.654	4
+Norfolk South West	1209	1277.258	4
+Normanton, Pontefract & Castleford	1096.5	1255.607	4
+Northampton North	946.5	735.983	4
+Northampton South	796.5	1255.607	4
+Northamptonshire South 	796.5	1298.909	4
+Norwich North	759	1320.56	4
+Norwich South	1134	1233.956	4
+Nottingham East	1171.5	1255.607	4
+Nottingham North	1021.5	1082.399	4
+Nottingham South	1021.5	1039.097	4
+Nuneaton	984	1104.05	4
+Ochil & South Perthshire	796.5	1082.399	4
+Ogmore	609	238.01	4
+Old Bexley & Sidcup	421.5	1472.117	4
+Oldham East & Saddleworth	1171.5	1515.419	4
+Oldham West & Royton	796.5	865.889	4
+Orkney & Shetland	759	757.634	4
+Orpington	646.5	43.151	4
+Oxford East	1096.5	1602.023	4
+Oxford West & Abingdon	721.5	1515.419	4
+Paisley & Renfrewshire North	684	1537.07	4
+Paisley & Renfrewshire South	496.5	259.661	4
+Pendle	496.5	389.567	4
+Penistone & Stocksbridge	796.5	692.681	4
+Penrith & The Border	871.5	952.493	4
+Perth & North Perthshire	684	541.124	4
+Peterborough	571.5	216.359	4
+Plymouth Moor View	1021.5	1212.305	4
+Plymouth Sutton & Devonport	346.5	1818.533	4
+Pontypridd	309	1840.184	4
+Poole	459	1407.164	4
+Poplar & Limehouse	534	1753.58	4
+Portsmouth North	1059	1493.768	4
+Portsmouth South	834	1710.278	4
+Preseli Pembrokeshire	871.5	1731.929	4
+Preston	309	1407.164	4
+Pudsey	646.5	692.681	4
+Putney	871.5	692.681	4
+Rayleigh & Wickford	871.5	1558.721	4
+Reading East	1246.5	1385.513	4
+Reading West	684	1580.372	4
+Redcar	684	1623.674	4
+Redditch	984	584.426	4
+Reigate	646.5	1342.211	4
+Renfrewshire East	909	1666.976	4
+Rhondda	534	411.218	4
+South Ribble	459	1363.862	4
+Ribble Valley	534	800.936	4
+Richmond (Yorks)	796.5	649.379	4
+Richmond Park	871.5	649.379	4
+Rochdale	871.5	1515.419	4
+Rochester & Strood	796.5	822.587	4
+Rochford & Southend East	1284	1537.07	4
+Romford	1321.5	1428.815	4
+Romsey & Southampton North	1246.5	1472.117	4
+Ross, Skye & Lochaber	646.5	1688.627	4
+Rossendale & Darwen	534	151.406	4
+Rotherham	796.5	779.285	4
+Rother Valley	1021.5	952.493	4
+Rugby	946.5	865.889	4
+Ruislip, Northwood & Pinner	759	1233.956	4
+Runnymede & Weybridge	834	1407.164	4
+Rushcliffe	759	1537.07	4
+Rutherglen & Hamilton West	1021.5	1125.701	4
+Rutland & Melton	609	497.822	4
+Saffron Walden	1021.5	1169.003	4
+Salford & Eccles	1171.5	1385.513	4
+Salisbury	684	800.936	4
+Scarborough & Whitby	609	1710.278	4
+Scunthorpe	1021.5	692.681	4
+Sedgefield	1059	974.144	4
+Sefton Central	871.5	606.077	4
+Selby & Ainsty	496.5	865.889	4
+Sevenoaks	984	714.332	4
+Sheffield Brightside & Hillsborough	1134	1623.674	4
+Sheffield Central	946.5	909.191	4
+Sheffield Hallam	909	930.842	4
+Sheffield Heeley	909	974.144	4
+Sheffield South East	946.5	952.493	4
+Sherwood	984	930.842	4
+Shipley	984	1017.446	4
+Shrewsbury & Atcham	909	671.03	4
+Shropshire North	571.5	1125.701	4
+Sittingbourne & Sheppey	571.5	1082.399	4
+Skipton & Ripon	1321.5	1558.721	4
+Sleaford & North Hykeham	834	671.03	4
+Slough	1059	1147.352	4
+Solihull	759	1493.768	4
+Somerset North	721.5	1255.607	4
+Somerset North East	459	1623.674	4
+Somerton & Frome	534	1666.976	4
+Southampton Itchen	459	1710.278	4
+Southampton Test	1096.5	1169.003	4
+Southend West	871.5	476.171	4
+South Holland & The Deepings	721.5	1731.929	4
+Southport	684	1753.58	4
+South Shields	1284	1407.164	4
+Spelthorne	496.5	822.587	4
+Stafford	759	1580.372	4
+Staffordshire Moorlands	984	1277.258	4
+Staffordshire South	234	1840.184	4
+St Albans	571.5	822.587	4
+Stalybridge & Hyde	571.5	909.191	4
+St Austell & Newquay	159	1883.486	4
+Stevenage	721.5	1039.097	4
+St Helens North	684	974.144	4
+St Helens South & Whiston	609	1060.748	4
+Stirling	796.5	909.191	4
+St Ives	946.5	1255.607	4
+Stockport	534	194.708	4
+Stockton North	759	887.54	4
+Stockton South	909	584.426	4
+Stoke-on-Trent Central	946.5	649.379	4
+Stoke-on-Trent North	646.5	995.795	4
+Stoke-on-Trent South	609	1017.446	4
+Stone	646.5	1039.097	4
+Stourbridge	721.5	995.795	4
+Strangford	609	1277.258	4
+Stratford-on-Avon	159	800.936	4
+Streatham	721.5	1342.211	4
+Stretford & Urmston	984	1580.372	4
+Stroud	646.5	779.285	4
+Suffolk Central & Ipswich North	609	1537.07	4
+Suffolk Coastal	1284	1320.56	4
+Suffolk South	1321.5	1298.909	4
+Suffolk West	1209	1320.56	4
+Sunderland Central	1134	1277.258	4
+Surrey East	909	497.822	4
+Surrey Heath	1096.5	1645.325	4
+Surrey South West	759	1623.674	4
+Sussex Mid	796.5	1688.627	4
+Sutton & Cheam	1134	1666.976	4
+Sutton Coldfield	871.5	1602.023	4
+Swansea East	759	1104.05	4
+Swansea West	384	1493.768	4
+Swindon North	384	1450.466	4
+Swindon South	646.5	1515.419	4
+Tamworth	609	1580.372	4
+Tatton	796.5	995.795	4
+Taunton Deane	684	930.842	4
+Telford	384	1753.58	4
+Tewkesbury	609	1104.05	4
+Thanet North	609	1450.466	4
+Thanet South	1396.5	1602.023	4
+Thirsk & Malton	1359	1623.674	4
+Thornbury & Yate	1059	757.634	4
+Thurrock	571.5	1515.419	4
+Tiverton & Honiton	1284	1493.768	4
+Tonbridge & Malling	459	1753.58	4
+Tooting	1171.5	1602.023	4
+Torbay	946.5	1602.023	4
+Torfaen	384	1840.184	4
+Totnes	571.5	1342.211	4
+Tottenham	384	1883.486	4
+Truro & Falmouth	1021.5	1385.513	4
+Tunbridge Wells	234	1883.486	4
+Twickenham	1209	1623.674	4
+Tynemouth	834	1580.372	4
+Tyneside North	834	454.52	4
+Tyrone West	796.5	519.473	4
+Ulster Mid	9	671.03	4
+Upper Bann	46.5	692.681	4
+Uxbridge & Ruislip South	84	800.936	4
+Vale of Clwyd	796.5	1472.117	4
+Vale of Glamorgan	496.5	1082.399	4
+Vauxhall	459	1493.768	4
+Wakefield	984	1537.07	4
+Wallasey	909	800.936	4
+Walsall North	459	974.144	4
+Walsall South	684	1060.748	4
+Walthamstow	684	1104.05	4
+Wansbeck	1059	1407.164	4
+Wantage	759	454.52	4
+Warley	646.5	1558.721	4
+Warrington North	646.5	1169.003	4
+Warrington South	609	887.54	4
+Warwick & Leamington	646.5	909.191	4
+Warwickshire North	759	1277.258	4
+Washington & Sunderland West	796.5	1039.097	4
+Watford	871.5	519.473	4
+Waveney	871.5	1342.211	4
+Wealden	1284	1277.258	4
+Weaver Vale	1171.5	1645.325	4
+Wellingborough	609	974.144	4
+Wells	834	1233.956	4
+Welwyn Hatfield	421.5	1688.627	4
+Wentworth & Dearne	946.5	1298.909	4
+West Bromwich East	984	844.238	4
+West Bromwich West	684	1147.352	4
+West Ham	609	1233.956	4
+Westminster North	1134	1450.466	4
+Westmorland & Lonsdale	946.5	1472.117	4
+Weston-Super-Mare	721.5	606.077	4
+Wigan	459	1666.976	4
+Wiltshire North	609	757.634	4
+Wiltshire South West	609	1623.674	4
+Wimbledon	496.5	1688.627	4
+Winchester	909	1580.372	4
+Windsor	759	1710.278	4
+Wirral South	796.5	1558.721	4
+Wirral West	496.5	995.795	4
+Witham	459	1017.446	4
+Witney	1284	1363.862	4
+Woking	684	1450.466	4
+Wokingham	759	1666.976	4
+Wolverhampton North East	684	1666.976	4
+Wolverhampton South East	684	1017.446	4
+Wolverhampton South West	646.5	1125.701	4
+Worcester	646.5	1082.399	4
+Worcestershire Mid	609	1363.862	4
+Worcestershire West	684	1363.862	4
+Workington	646.5	1385.513	4
+Worsley & Eccles South	646.5	562.775	4
+Worthing East & Shoreham	646.5	865.889	4
+Worthing West	1059	1710.278	4
+Wrekin, The	1021.5	1731.929	4
+Wrexham	571.5	1169.003	4
+Wycombe	534	1104.05	4
+Wyre & Preston North	721.5	1472.117	4
+Wyre Forest	721.5	649.379	4
+Wythenshawe & Sale East	571.5	1255.607	4
+Yeovil	684	844.238	4
+Ynys Mon	421.5	1731.929	4
+York Central	384	1060.748	4
+York Outer	984	757.634	4
+Yorkshire East	1021.5	735.983	4
+Aberavon	434	1450.466	5
+Aberconwy	471.5	1125.701	5
+Aberdeen North	696.5	173.057	5
+Aberdeen South	734	194.708	5
+Aberdeenshire West & Kincardine	659	194.708	5
+Airdrie & Shotts	621.5	389.567	5
+Aldershot	734	1710.278	5
+Aldridge-Brownhills	771.5	1082.399	5
+Altrincham & Sale West	696.5	909.191	5
+Alyn & Deeside	546.5	1082.399	5
+Amber Valley	921.5	1082.399	5
+Angus	696.5	216.359	5
+Antrim East	171.5	692.681	5
+Antrim North	134	671.03	5
+Arfon	96.5	692.681	5
+Argyll & Bute	434	1147.352	5
+Arundel & South Downs	509	238.01	5
+Ashfield	1034	1710.278	5
+Ashford	959	1060.748	5
+Ashton Under Lyne	1259	1666.976	5
+Aylesbury	771.5	822.587	5
+Ayr, Carrick & Cumnock	696.5	1515.419	5
+Ayrshire Central	546.5	519.473	5
+Ayrshire North & Arran	509	497.822	5
+Banbury	509	454.52	5
+Banff & Buchan	696.5	1428.815	5
+Barking	659	151.406	5
+Barnsley Central	1221.5	1515.419	5
+Barnsley East	884	930.842	5
+Barrow & Furness	921.5	909.191	5
+Basildon & Billericay	659	671.03	5
+Basildon South & Thurrock East	1259	1450.466	5
+Basingstoke	1296.5	1472.117	5
+Bassetlaw	696.5	1731.929	5
+Bath	1034	1017.446	5
+Batley & Spen	584	1623.674	5
+Battersea	884	844.238	5
+Beaconsfield	959	1580.372	5
+Beckenham	771.5	1472.117	5
+Bedford	1071.5	1645.325	5
+Bedfordshire Mid	884	1277.258	5
+Bedfordshire North East	809	1363.862	5
+Bedfordshire South West	846.5	1298.909	5
+Belfast East	809	1407.164	5
+Belfast North	134	757.634	5
+Belfast South	134	714.332	5
+Belfast West	96.5	779.285	5
+Bermondsey & Old Southwark	96.5	735.983	5
+Berwickshire, Roxburgh & Selkirk	1034	1537.07	5
+Berwick-upon-Tweed	696.5	476.171	5
+Bethnal Green & Bow	734	497.822	5
+Beverley & Holderness	1109	1493.768	5
+Bexhill & Battle	1109	844.238	5
+Bexleyheath & Crayford	1221.5	1688.627	5
+Birkenhead	1146.5	1602.023	5
+Birmingham Edgbaston	509	930.842	5
+Birmingham Erdington	621.5	1342.211	5
+Birmingham Hall Green	734	1147.352	5
+Birmingham Hodge Hill	696.5	1298.909	5
+Birmingham Ladywood	734	1190.654	5
+Birmingham Northfield	696.5	1255.607	5
+Birmingham Perry Barr	659	1320.56	5
+Birmingham Selly Oak	696.5	1212.305	5
+Birmingham Yardley	659	1233.956	5
+Bishop Auckland	734	1233.956	5
+Blackburn	846.5	649.379	5
+Blackley & Broughton	696.5	692.681	5
+Blackpool North & Cleveleys	734	800.936	5
+Blackpool South	621.5	692.681	5
+Blaenau Gwent	584	714.332	5
+Blaydon	546.5	1342.211	5
+Blyth Valley	734	584.426	5
+Bognor Regis & Littlehampton	809	497.822	5
+Bolsover	996.5	1731.929	5
+Bolton North East	959	1017.446	5
+Bolton South East	696.5	735.983	5
+Bolton West	696.5	779.285	5
+Bootle	659	757.634	5
+Boston & Skegness	471.5	952.493	5
+Bosworth	1109	1147.352	5
+Bournemouth East	846.5	1169.003	5
+Bournemouth West	584	1753.58	5
+Bracknell	584	1710.278	5
+Bradford East	734	1623.674	5
+Bradford South	884	757.634	5
+Bradford West	846.5	822.587	5
+Braintree	846.5	779.285	5
+Brecon & Radnorshire	1184	1363.862	5
+Brent Central	546.5	1255.607	5
+Brent North	959	1407.164	5
+Brentford & Isleworth	921.5	1428.815	5
+Brentwood & Ongar	884	1493.768	5
+Bridgend	1146.5	1385.513	5
+Bridgwater & Somerset West	434	1537.07	5
+Brigg & Goole	396.5	1731.929	5
+Brighton Kemptown	1034	930.842	5
+Brighton Pavilion	1146.5	1731.929	5
+Bristol East	1109	1710.278	5
+Bristol North West	546.5	1602.023	5
+Bristol South	509	1623.674	5
+Bristol West	509	1666.976	5
+Broadland	546.5	1645.325	5
+Bromley & Chislehurst	1184	1233.956	5
+Bromsgrove	1109	1580.372	5
+Broxbourne	696.5	1342.211	5
+Broxtowe	1034	1320.56	5
+Buckingham	996.5	1082.399	5
+Burnley	809	1450.466	5
+Burton	809	757.634	5
+Bury North	771.5	995.795	5
+Bury South	734	714.332	5
+Bury St Edmunds	734	757.634	5
+Caerphilly	1184	1320.56	5
+Caithness, Sutherland & Easter Ross	546.5	1428.815	5
+Calder Valley	546.5	129.755	5
+Camberwell & Peckham	846.5	909.191	5
+Camborne & Redruth	1071.5	1558.721	5
+Cambridge	209	1883.486	5
+Cambridgeshire North East	1109	1320.56	5
+Cambridgeshire North West	1109	1233.956	5
+Cambridgeshire South	959	1233.956	5
+Cambridgeshire South East	996.5	1255.607	5
+Cannock Chase	1146.5	1342.211	5
+Canterbury	734	1104.05	5
+Cardiff Central	1371.5	1602.023	5
+Cardiff North	509	1450.466	5
+Cardiff South & Penarth	546.5	1472.117	5
+Cardiff West	509	1493.768	5
+Carlisle	471.5	1472.117	5
+Carmarthen East & Dinefwr	696.5	606.077	5
+Carmarthen West & Pembrokeshire South	396.5	1428.815	5
+Carshalton & Wallington	321.5	1472.117	5
+Castle Point	959	1666.976	5
+Ceredigion	1334	1493.768	5
+Charnwood	546.5	1298.909	5
+Chatham & Aylesford	959	1147.352	5
+Cheadle	1296.5	1602.023	5
+Chelmsford	734	930.842	5
+Chelsea & Fulham	1221.5	1428.815	5
+Cheltenham	959	1537.07	5
+Chesham & Amersham	659	1450.466	5
+Chester, City of	734	1450.466	5
+Chesterfield	546.5	1039.097	5
+Chichester	921.5	1039.097	5
+Chingford & Woodford Green	959	1753.58	5
+Chippenham	1146.5	1428.815	5
+Chipping Barnet	584	1666.976	5
+Chorley	996.5	1342.211	5
+Christchurch	621.5	735.983	5
+Cities of London & Westminster	621.5	1775.231	5
+Clacton	996.5	1515.419	5
+Cleethorpes	1334	1363.862	5
+Clwyd South	1109	1017.446	5
+Clwyd West	546.5	1169.003	5
+Coatbridge, Chryston & Bellshill	509	1147.352	5
+Colchester	584	411.218	5
+Colne Valley	1221.5	1385.513	5
+Congleton	846.5	952.493	5
+Copeland	734	974.144	5
+Corby	659	627.728	5
+Cornwall North	996.5	1169.003	5
+Cornwall South East	284	1840.184	5
+Cotswolds, The	284	1883.486	5
+Coventry North East	659	1493.768	5
+Coventry North West	809	1147.352	5
+Coventry South	809	1190.654	5
+Crawley	771.5	1212.305	5
+Crewe & Nantwich	959	1710.278	5
+Croydon Central	659	974.144	5
+Croydon North	1034	1666.976	5
+Croydon South	996.5	1645.325	5
+Cumbernauld, Kilsyth & Kirkintilloch East	996.5	1688.627	5
+Cynon Valley	584	281.312	5
+Dagenham & Rainham	509	1407.164	5
+Darlington	1221.5	1558.721	5
+Dartford	921.5	649.379	5
+Daventry	1221.5	1602.023	5
+Delyn	809	1233.956	5
+Denton & Reddish	509	1060.748	5
+Derby North	771.5	865.889	5
+Derby South	846.5	1082.399	5
+Derbyshire Dales	884	1104.05	5
+Derbyshire Mid	846.5	1039.097	5
+Derbyshire North East	884	1060.748	5
+Derbyshire South	884	1017.446	5
+Devizes	846.5	1125.701	5
+Devon Central	621.5	1688.627	5
+Devon East	359	1796.882	5
+Devon North	434	1796.882	5
+Devon South West	359	1753.58	5
+Devon West & Torridge	359	1883.486	5
+Dewsbury	321.5	1818.533	5
+Don Valley	921.5	865.889	5
+Doncaster Central	996.5	909.191	5
+Doncaster North	1034	887.54	5
+Dorset Mid & Poole North	1034	844.238	5
+Dorset North	509	1753.58	5
+Dorset South	546.5	1731.929	5
+Dorset West	546.5	1818.533	5
+Dover	509	1796.882	5
+Down North	1334	1666.976	5
+Down South	171.5	779.285	5
+Dudley North	134	844.238	5
+Dudley South	621.5	1169.003	5
+Dulwich & West Norwood	621.5	1212.305	5
+Dumfries & Galloway	1034	1580.372	5
+Dumfriesshire, Clydesdale & Tweeddale	584	541.124	5
+Dunbartonshire East	659	541.124	5
+Dunbartonshire West	546.5	302.963	5
+Dundee East	546.5	259.661	5
+Dundee West	659	238.01	5
+Dunfermline & Fife West	696.5	259.661	5
+Durham, City of	659	281.312	5
+Durham North	846.5	606.077	5
+Durham North West	809	627.728	5
+Dwyfor Meirionnydd	771.5	606.077	5
+Ealing Central & Acton	471.5	1169.003	5
+Ealing North	884	1450.466	5
+Ealing Southall	846.5	1472.117	5
+Easington	846.5	1515.419	5
+East Ham	921.5	562.775	5
+East Kilbride, Strathaven & Lesmahagow	1184	1493.768	5
+East Lothian	546.5	476.171	5
+Eastbourne	734	411.218	5
+Eastleigh	1221.5	1731.929	5
+Eddisbury	771.5	1775.231	5
+Edinburgh East	584	1017.446	5
+Edinburgh North & Leith	696.5	389.567	5
+Edinburgh South	696.5	432.869	5
+Edinburgh South West	659	454.52	5
+Edinburgh West	659	411.218	5
+Edmonton	659	367.916	5
+Ellesmere Port & Neston	1109	1407.164	5
+Elmet & Rothwell	509	974.144	5
+Eltham	959	714.332	5
+Enfield North	1146.5	1558.721	5
+Enfield Southgate	1071.5	1385.513	5
+Epping Forest	1034	1363.862	5
+Epsom & Ewell	1109	1363.862	5
+Erewash	884	1666.976	5
+Erith & Thamesmead	959	1104.05	5
+Esher & Walton	1184	1580.372	5
+Exeter	809	1623.674	5
+Falkirk	396.5	1818.533	5
+Fareham	621.5	302.963	5
+Faversham & Kent Mid	809	1796.882	5
+Feltham & Heston	1296.5	1645.325	5
+Fermanagh & South Tyrone	846.5	1558.721	5
+Fife North East	21.5	735.983	5
+Filton & Bradley Stoke	734	281.312	5
+Finchley & Golders Green	546.5	1558.721	5
+Folkestone & Hythe	996.5	1385.513	5
+Forest of Dean	1296.5	1688.627	5
+Foyle	584	1493.768	5
+Fylde	59	671.03	5
+Gainsborough	584	757.634	5
+Garston & Halewood	1109	1060.748	5
+Gateshead	584	974.144	5
+Gedling	846.5	562.775	5
+Gillingham & Rainham	1071.5	1082.399	5
+Glasgow Central	1334	1623.674	5
+Glasgow East	546.5	389.567	5
+Glasgow North	584	367.916	5
+Glasgow North East	546.5	346.265	5
+Glasgow North West	584	324.614	5
+Glasgow South	509	324.614	5
+Glasgow South West	584	454.52	5
+Glenrothes	509	367.916	5
+Gloucester	696.5	302.963	5
+Gordon	621.5	1515.419	5
+Gosport	621.5	173.057	5
+Gower	846.5	1775.231	5
+Grantham & Stamford	359	1493.768	5
+Gravesham	1071.5	1212.305	5
+Great Grimsby	1259	1580.372	5
+Great Yarmouth	1259	1277.258	5
+Greenwich & Woolwich	1146.5	1515.419	5
+Guildford	1109	974.144	5
+Hackney North & Stoke Newington	846.5	1688.627	5
+Hackney South & Shoreditch	1034	1450.466	5
+Halesowen & Rowley Regis	1071.5	1472.117	5
+Halifax	659	1277.258	5
+Haltemprice & Howden	846.5	865.889	5
+Halton	1071.5	822.587	5
+Hammersmith	621.5	952.493	5
+Hampshire East	921.5	1558.721	5
+Hampshire North East	884	1710.278	5
+Hampshire North West	734	1666.976	5
+Hampstead & Kilburn	659	1666.976	5
+Harborough	921.5	1472.117	5
+Harlow	921.5	1212.305	5
+Harrogate & Knaresborough	1071.5	1342.211	5
+Harrow East	996.5	692.681	5
+Harrow West	921.5	1385.513	5
+Hartlepool	884	1407.164	5
+Harwich & Essex North	959	584.426	5
+Hastings & Rye	1259	1363.862	5
+Havant	1259	1710.278	5
+Hayes & Harlington	921.5	1731.929	5
+Hazel Grove	809	1537.07	5
+Hemel Hempstead	809	974.144	5
+Hemsworth	1034	1277.258	5
+Hendon	1034	800.936	5
+Henley	959	1363.862	5
+Hereford & Herefordshire South	734	1407.164	5
+Herefordshire North	621.5	1428.815	5
+Hertford & Stortford	584	1320.56	5
+Hertfordshire North East	1071.5	1298.909	5
+Hertfordshire South West	1071.5	1255.607	5
+Hertsmere	846.5	1385.513	5
+Hexham	921.5	1342.211	5
+Heywood & Middleton	734	541.124	5
+High Peak	771.5	735.983	5
+Hitchin & Harpenden	846.5	995.795	5
+Holborn & St Pancras	921.5	1298.909	5
+Hornchurch & Upminster	996.5	1472.117	5
+Hornsey & Wood Green	1259	1537.07	5
+Horsham	959	1450.466	5
+Houghton & Sunderland South	1071.5	1688.627	5
+Hove	884	584.426	5
+Huddersfield	1109	1753.58	5
+Hull East	884	887.54	5
+Hull North	1071.5	909.191	5
+Hull West & Hessle	1071.5	865.889	5
+Huntingdon	1071.5	952.493	5
+Hyndburn	921.5	1255.607	5
+Ilford North	771.5	692.681	5
+Ilford South	1184	1450.466	5
+Inverclyde	1221.5	1472.117	5
+Inverness, Nairn, Badenoch & Strathspey	471.5	346.265	5
+Ipswich	584	194.708	5
+Isle of Wight	1259	1320.56	5
+Islington North	734	1840.184	5
+Islington South & Finsbury	996.5	1428.815	5
+Islwyn	1034	1493.768	5
+Jarrow	546.5	1385.513	5
+Keighley	846.5	519.473	5
+Kenilworth & Southam	846.5	735.983	5
+Kensington	734	1320.56	5
+Kettering	921.5	1515.419	5
+Kilmarnock & Loudoun	959	1190.654	5
+Kingston & Surbiton	584	497.822	5
+Kingswood	846.5	1645.325	5
+Kirkcaldy & Cowdenbeath	584	1580.372	5
+Knowsley	659	324.614	5
+Lagan Valley	584	887.54	5
+Lanark & Hamilton East	134	800.936	5
+Lancashire West	621.5	476.171	5
+Lancaster & Fleetwood	584	800.936	5
+Leeds Central	771.5	649.379	5
+Leeds East	884	800.936	5
+Leeds North East	996.5	822.587	5
+Leeds North West	959	800.936	5
+Leeds West	921.5	779.285	5
+Leicester East	921.5	735.983	5
+Leicester South	921.5	1169.003	5
+Leicester West	884	1233.956	5
+Leicestershire North West	884	1190.654	5
+Leicestershire South	884	1147.352	5
+Leigh	846.5	1212.305	5
+Lewes	621.5	865.889	5
+Lewisham Deptford	1184	1710.278	5
+Lewisham East	1109	1537.07	5
+Lewisham West & Penge	1071.5	1602.023	5
+Leyton & Wanstead	1034	1623.674	5
+Lichfield	1109	1450.466	5
+Lincoln	771.5	1039.097	5
+Linlithgow & Falkirk East	1071.5	1125.701	5
+Liverpool Riverside	621.5	346.265	5
+Liverpool Walton	546.5	995.795	5
+Liverpool Wavertree	546.5	865.889	5
+Liverpool West Derby	546.5	952.493	5
+Livingston	546.5	909.191	5
+Llanelli	659	497.822	5
+Londonderry East	359	1450.466	5
+Loughborough	96.5	649.379	5
+Louth & Horncastle	921.5	1125.701	5
+Ludlow	1109	1104.05	5
+Luton North	584	1233.956	5
+Luton South	846.5	1342.211	5
+Macclesfield	884	1320.56	5
+Maidenhead	771.5	952.493	5
+Maidstone & The Weald	734	1580.372	5
+Makerfield	1259	1623.674	5
+Maldon	621.5	822.587	5
+Manchester Central	1334	1407.164	5
+Manchester Gorton	734	844.238	5
+Manchester Withington	659	844.238	5
+Mansfield	734	887.54	5
+Meon Valley	996.5	995.795	5
+Meriden	809	1753.58	5
+Merthyr Tydfil & Rhymney	771.5	1169.003	5
+Middlesbrough	509	1363.862	5
+Middlesbrough South & Cleveland East	959	627.728	5
+Midlothian	996.5	649.379	5
+Milton Keynes North	696.5	519.473	5
+Milton Keynes South	771.5	1385.513	5
+Mitcham & Morden	771.5	1428.815	5
+Mole Valley	921.5	1645.325	5
+Monmouth	809	1666.976	5
+Montgomeryshire	584	1407.164	5
+Moray	546.5	1212.305	5
+Morecambe & Lunesdale	621.5	216.359	5
+Morley & Outwood	696.5	649.379	5
+Motherwell & Wishaw	959	844.238	5
+Na h-Eileanan an Iar (Western Isles)	621.5	432.869	5
+Neath	471.5	173.057	5
+New Forest East	434	1407.164	5
+New Forest West	659	1753.58	5
+Newark	659	1796.882	5
+Newbury	1071.5	1039.097	5
+Newcastle-under-Lyme	659	1623.674	5
+Newcastle upon Tyne Central	771.5	562.775	5
+Newcastle upon Tyne East	809	584.426	5
+Newcastle upon Tyne North	771.5	519.473	5
+Newport East	584	1060.748	5
+Newport West	584	1450.466	5
+Newry & Armagh	546.5	1515.419	5
+Newton Abbot	59	800.936	5
+Norfolk Mid	434	1840.184	5
+Norfolk North	996.5	1212.305	5
+Norfolk North West	1221.5	1255.607	5
+Norfolk South	1146.5	1212.305	5
+Norfolk South West	1221.5	1298.909	5
+Normanton, Pontefract & Castleford	1109	1277.258	5
+Northampton North	959	757.634	5
+Northampton South	809	1277.258	5
+Northamptonshire South 	809	1320.56	5
+Norwich North	771.5	1342.211	5
+Norwich South	1146.5	1255.607	5
+Nottingham East	1184	1277.258	5
+Nottingham North	1034	1104.05	5
+Nottingham South	1034	1060.748	5
+Nuneaton	996.5	1125.701	5
+Ochil & South Perthshire	809	1104.05	5
+Ogmore	621.5	259.661	5
+Old Bexley & Sidcup	434	1493.768	5
+Oldham East & Saddleworth	1184	1537.07	5
+Oldham West & Royton	809	887.54	5
+Orkney & Shetland	771.5	779.285	5
+Orpington	659	64.802	5
+Oxford East	1109	1623.674	5
+Oxford West & Abingdon	734	1537.07	5
+Paisley & Renfrewshire North	696.5	1558.721	5
+Paisley & Renfrewshire South	509	281.312	5
+Pendle	509	411.218	5
+Penistone & Stocksbridge	809	714.332	5
+Penrith & The Border	884	974.144	5
+Perth & North Perthshire	696.5	562.775	5
+Peterborough	584	238.01	5
+Plymouth Moor View	1034	1233.956	5
+Plymouth Sutton & Devonport	359	1840.184	5
+Pontypridd	321.5	1861.835	5
+Poole	471.5	1428.815	5
+Poplar & Limehouse	546.5	1775.231	5
+Portsmouth North	1071.5	1515.419	5
+Portsmouth South	846.5	1731.929	5
+Preseli Pembrokeshire	884	1753.58	5
+Preston	321.5	1428.815	5
+Pudsey	659	714.332	5
+Putney	884	714.332	5
+Rayleigh & Wickford	884	1580.372	5
+Reading East	1259	1407.164	5
+Reading West	696.5	1602.023	5
+Redcar	696.5	1645.325	5
+Redditch	996.5	606.077	5
+Reigate	659	1363.862	5
+Renfrewshire East	921.5	1688.627	5
+Rhondda	546.5	432.869	5
+South Ribble	471.5	1385.513	5
+Ribble Valley	546.5	822.587	5
+Richmond (Yorks)	809	671.03	5
+Richmond Park	884	671.03	5
+Rochdale	884	1537.07	5
+Rochester & Strood	809	844.238	5
+Rochford & Southend East	1296.5	1558.721	5
+Romford	1334	1450.466	5
+Romsey & Southampton North	1259	1493.768	5
+Ross, Skye & Lochaber	659	1710.278	5
+Rossendale & Darwen	546.5	173.057	5
+Rotherham	809	800.936	5
+Rother Valley	1034	974.144	5
+Rugby	959	887.54	5
+Ruislip, Northwood & Pinner	771.5	1255.607	5
+Runnymede & Weybridge	846.5	1428.815	5
+Rushcliffe	771.5	1558.721	5
+Rutherglen & Hamilton West	1034	1147.352	5
+Rutland & Melton	621.5	519.473	5
+Saffron Walden	1034	1190.654	5
+Salford & Eccles	1184	1407.164	5
+Salisbury	696.5	822.587	5
+Scarborough & Whitby	621.5	1731.929	5
+Scunthorpe	1034	714.332	5
+Sedgefield	1071.5	995.795	5
+Sefton Central	884	627.728	5
+Selby & Ainsty	509	887.54	5
+Sevenoaks	996.5	735.983	5
+Sheffield Brightside & Hillsborough	1146.5	1645.325	5
+Sheffield Central	959	930.842	5
+Sheffield Hallam	921.5	952.493	5
+Sheffield Heeley	921.5	995.795	5
+Sheffield South East	959	974.144	5
+Sherwood	996.5	952.493	5
+Shipley	996.5	1039.097	5
+Shrewsbury & Atcham	921.5	692.681	5
+Shropshire North	584	1147.352	5
+Sittingbourne & Sheppey	584	1104.05	5
+Skipton & Ripon	1334	1580.372	5
+Sleaford & North Hykeham	846.5	692.681	5
+Slough	1071.5	1169.003	5
+Solihull	771.5	1515.419	5
+Somerset North	734	1277.258	5
+Somerset North East	471.5	1645.325	5
+Somerton & Frome	546.5	1688.627	5
+Southampton Itchen	471.5	1731.929	5
+Southampton Test	1109	1190.654	5
+Southend West	884	497.822	5
+South Holland & The Deepings	734	1753.58	5
+Southport	696.5	1775.231	5
+South Shields	1296.5	1428.815	5
+Spelthorne	509	844.238	5
+Stafford	771.5	1602.023	5
+Staffordshire Moorlands	996.5	1298.909	5
+Staffordshire South	246.5	1861.835	5
+St Albans	584	844.238	5
+Stalybridge & Hyde	584	930.842	5
+St Austell & Newquay	171.5	1905.137	5
+Stevenage	734	1060.748	5
+St Helens North	696.5	995.795	5
+St Helens South & Whiston	621.5	1082.399	5
+Stirling	809	930.842	5
+St Ives	959	1277.258	5
+Stockport	546.5	216.359	5
+Stockton North	771.5	909.191	5
+Stockton South	921.5	606.077	5
+Stoke-on-Trent Central	959	671.03	5
+Stoke-on-Trent North	659	1017.446	5
+Stoke-on-Trent South	621.5	1039.097	5
+Stone	659	1060.748	5
+Stourbridge	734	1017.446	5
+Strangford	621.5	1298.909	5
+Stratford-on-Avon	171.5	822.587	5
+Streatham	734	1363.862	5
+Stretford & Urmston	996.5	1602.023	5
+Stroud	659	800.936	5
+Suffolk Central & Ipswich North	621.5	1558.721	5
+Suffolk Coastal	1296.5	1342.211	5
+Suffolk South	1334	1320.56	5
+Suffolk West	1221.5	1342.211	5
+Sunderland Central	1146.5	1298.909	5
+Surrey East	921.5	519.473	5
+Surrey Heath	1109	1666.976	5
+Surrey South West	771.5	1645.325	5
+Sussex Mid	809	1710.278	5
+Sutton & Cheam	1146.5	1688.627	5
+Sutton Coldfield	884	1623.674	5
+Swansea East	771.5	1125.701	5
+Swansea West	396.5	1515.419	5
+Swindon North	396.5	1472.117	5
+Swindon South	659	1537.07	5
+Tamworth	621.5	1602.023	5
+Tatton	809	1017.446	5
+Taunton Deane	696.5	952.493	5
+Telford	396.5	1775.231	5
+Tewkesbury	621.5	1125.701	5
+Thanet North	621.5	1472.117	5
+Thanet South	1409	1623.674	5
+Thirsk & Malton	1371.5	1645.325	5
+Thornbury & Yate	1071.5	779.285	5
+Thurrock	584	1537.07	5
+Tiverton & Honiton	1296.5	1515.419	5
+Tonbridge & Malling	471.5	1775.231	5
+Tooting	1184	1623.674	5
+Torbay	959	1623.674	5
+Torfaen	396.5	1861.835	5
+Totnes	584	1363.862	5
+Tottenham	396.5	1905.137	5
+Truro & Falmouth	1034	1407.164	5
+Tunbridge Wells	246.5	1905.137	5
+Twickenham	1221.5	1645.325	5
+Tynemouth	846.5	1602.023	5
+Tyneside North	846.5	476.171	5
+Tyrone West	809	541.124	5
+Ulster Mid	21.5	692.681	5
+Upper Bann	59	714.332	5
+Uxbridge & Ruislip South	96.5	822.587	5
+Vale of Clwyd	809	1493.768	5
+Vale of Glamorgan	509	1104.05	5
+Vauxhall	471.5	1515.419	5
+Wakefield	996.5	1558.721	5
+Wallasey	921.5	822.587	5
+Walsall North	471.5	995.795	5
+Walsall South	696.5	1082.399	5
+Walthamstow	696.5	1125.701	5
+Wansbeck	1071.5	1428.815	5
+Wantage	771.5	476.171	5
+Warley	659	1580.372	5
+Warrington North	659	1190.654	5
+Warrington South	621.5	909.191	5
+Warwick & Leamington	659	930.842	5
+Warwickshire North	771.5	1298.909	5
+Washington & Sunderland West	809	1060.748	5
+Watford	884	541.124	5
+Waveney	884	1363.862	5
+Wealden	1296.5	1298.909	5
+Weaver Vale	1184	1666.976	5
+Wellingborough	621.5	995.795	5
+Wells	846.5	1255.607	5
+Welwyn Hatfield	434	1710.278	5
+Wentworth & Dearne	959	1320.56	5
+West Bromwich East	996.5	865.889	5
+West Bromwich West	696.5	1169.003	5
+West Ham	621.5	1255.607	5
+Westminster North	1146.5	1472.117	5
+Westmorland & Lonsdale	959	1493.768	5
+Weston-Super-Mare	734	627.728	5
+Wigan	471.5	1688.627	5
+Wiltshire North	621.5	779.285	5
+Wiltshire South West	621.5	1645.325	5
+Wimbledon	509	1710.278	5
+Winchester	921.5	1602.023	5
+Windsor	771.5	1731.929	5
+Wirral South	809	1580.372	5
+Wirral West	509	1017.446	5
+Witham	471.5	1039.097	5
+Witney	1296.5	1385.513	5
+Woking	696.5	1472.117	5
+Wokingham	771.5	1688.627	5
+Wolverhampton North East	696.5	1688.627	5
+Wolverhampton South East	696.5	1039.097	5
+Wolverhampton South West	659	1147.352	5
+Worcester	659	1104.05	5
+Worcestershire Mid	621.5	1385.513	5
+Worcestershire West	696.5	1385.513	5
+Workington	659	1407.164	5
+Worsley & Eccles South	659	584.426	5
+Worthing East & Shoreham	659	887.54	5
+Worthing West	1071.5	1731.929	5
+Wrekin, The	1034	1753.58	5
+Wrexham	584	1190.654	5
+Wycombe	546.5	1125.701	5
+Wyre & Preston North	734	1493.768	5
+Wyre Forest	734	671.03	5
+Wythenshawe & Sale East	584	1277.258	5
+Yeovil	696.5	865.889	5
+Ynys Mon	434	1753.58	5
+York Central	396.5	1082.399	5
+York Outer	996.5	779.285	5
+Yorkshire East	1034	757.634	5
+Aberavon	459	1450.466	6
+Aberconwy	496.5	1125.701	6
+Aberdeen North	721.5	173.057	6
+Aberdeen South	759	194.708	6
+Aberdeenshire West & Kincardine	684	194.708	6
+Airdrie & Shotts	646.5	389.567	6
+Aldershot	759	1710.278	6
+Aldridge-Brownhills	796.5	1082.399	6
+Altrincham & Sale West	721.5	909.191	6
+Alyn & Deeside	571.5	1082.399	6
+Amber Valley	946.5	1082.399	6
+Angus	721.5	216.359	6
+Antrim East	196.5	692.681	6
+Antrim North	159	671.03	6
+Arfon	121.5	692.681	6
+Argyll & Bute	459	1147.352	6
+Arundel & South Downs	534	238.01	6
+Ashfield	1059	1710.278	6
+Ashford	984	1060.748	6
+Ashton Under Lyne	1284	1666.976	6
+Aylesbury	796.5	822.587	6
+Ayr, Carrick & Cumnock	721.5	1515.419	6
+Ayrshire Central	571.5	519.473	6
+Ayrshire North & Arran	534	497.822	6
+Banbury	534	454.52	6
+Banff & Buchan	721.5	1428.815	6
+Barking	684	151.406	6
+Barnsley Central	1246.5	1515.419	6
+Barnsley East	909	930.842	6
+Barrow & Furness	946.5	909.191	6
+Basildon & Billericay	684	671.03	6
+Basildon South & Thurrock East	1284	1450.466	6
+Basingstoke	1321.5	1472.117	6
+Bassetlaw	721.5	1731.929	6
+Bath	1059	1017.446	6
+Batley & Spen	609	1623.674	6
+Battersea	909	844.238	6
+Beaconsfield	984	1580.372	6
+Beckenham	796.5	1472.117	6
+Bedford	1096.5	1645.325	6
+Bedfordshire Mid	909	1277.258	6
+Bedfordshire North East	834	1363.862	6
+Bedfordshire South West	871.5	1298.909	6
+Belfast East	834	1407.164	6
+Belfast North	159	757.634	6
+Belfast South	159	714.332	6
+Belfast West	121.5	779.285	6
+Bermondsey & Old Southwark	121.5	735.983	6
+Berwickshire, Roxburgh & Selkirk	1059	1537.07	6
+Berwick-upon-Tweed	721.5	476.171	6
+Bethnal Green & Bow	759	497.822	6
+Beverley & Holderness	1134	1493.768	6
+Bexhill & Battle	1134	844.238	6
+Bexleyheath & Crayford	1246.5	1688.627	6
+Birkenhead	1171.5	1602.023	6
+Birmingham Edgbaston	534	930.842	6
+Birmingham Erdington	646.5	1342.211	6
+Birmingham Hall Green	759	1147.352	6
+Birmingham Hodge Hill	721.5	1298.909	6
+Birmingham Ladywood	759	1190.654	6
+Birmingham Northfield	721.5	1255.607	6
+Birmingham Perry Barr	684	1320.56	6
+Birmingham Selly Oak	721.5	1212.305	6
+Birmingham Yardley	684	1233.956	6
+Bishop Auckland	759	1233.956	6
+Blackburn	871.5	649.379	6
+Blackley & Broughton	721.5	692.681	6
+Blackpool North & Cleveleys	759	800.936	6
+Blackpool South	646.5	692.681	6
+Blaenau Gwent	609	714.332	6
+Blaydon	571.5	1342.211	6
+Blyth Valley	759	584.426	6
+Bognor Regis & Littlehampton	834	497.822	6
+Bolsover	1021.5	1731.929	6
+Bolton North East	984	1017.446	6
+Bolton South East	721.5	735.983	6
+Bolton West	721.5	779.285	6
+Bootle	684	757.634	6
+Boston & Skegness	496.5	952.493	6
+Bosworth	1134	1147.352	6
+Bournemouth East	871.5	1169.003	6
+Bournemouth West	609	1753.58	6
+Bracknell	609	1710.278	6
+Bradford East	759	1623.674	6
+Bradford South	909	757.634	6
+Bradford West	871.5	822.587	6
+Braintree	871.5	779.285	6
+Brecon & Radnorshire	1209	1363.862	6
+Brent Central	571.5	1255.607	6
+Brent North	984	1407.164	6
+Brentford & Isleworth	946.5	1428.815	6
+Brentwood & Ongar	909	1493.768	6
+Bridgend	1171.5	1385.513	6
+Bridgwater & Somerset West	459	1537.07	6
+Brigg & Goole	421.5	1731.929	6
+Brighton Kemptown	1059	930.842	6
+Brighton Pavilion	1171.5	1731.929	6
+Bristol East	1134	1710.278	6
+Bristol North West	571.5	1602.023	6
+Bristol South	534	1623.674	6
+Bristol West	534	1666.976	6
+Broadland	571.5	1645.325	6
+Bromley & Chislehurst	1209	1233.956	6
+Bromsgrove	1134	1580.372	6
+Broxbourne	721.5	1342.211	6
+Broxtowe	1059	1320.56	6
+Buckingham	1021.5	1082.399	6
+Burnley	834	1450.466	6
+Burton	834	757.634	6
+Bury North	796.5	995.795	6
+Bury South	759	714.332	6
+Bury St Edmunds	759	757.634	6
+Caerphilly	1209	1320.56	6
+Caithness, Sutherland & Easter Ross	571.5	1428.815	6
+Calder Valley	571.5	129.755	6
+Camberwell & Peckham	871.5	909.191	6
+Camborne & Redruth	1096.5	1558.721	6
+Cambridge	234	1883.486	6
+Cambridgeshire North East	1134	1320.56	6
+Cambridgeshire North West	1134	1233.956	6
+Cambridgeshire South	984	1233.956	6
+Cambridgeshire South East	1021.5	1255.607	6
+Cannock Chase	1171.5	1342.211	6
+Canterbury	759	1104.05	6
+Cardiff Central	1396.5	1602.023	6
+Cardiff North	534	1450.466	6
+Cardiff South & Penarth	571.5	1472.117	6
+Cardiff West	534	1493.768	6
+Carlisle	496.5	1472.117	6
+Carmarthen East & Dinefwr	721.5	606.077	6
+Carmarthen West & Pembrokeshire South	421.5	1428.815	6
+Carshalton & Wallington	346.5	1472.117	6
+Castle Point	984	1666.976	6
+Ceredigion	1359	1493.768	6
+Charnwood	571.5	1298.909	6
+Chatham & Aylesford	984	1147.352	6
+Cheadle	1321.5	1602.023	6
+Chelmsford	759	930.842	6
+Chelsea & Fulham	1246.5	1428.815	6
+Cheltenham	984	1537.07	6
+Chesham & Amersham	684	1450.466	6
+Chester, City of	759	1450.466	6
+Chesterfield	571.5	1039.097	6
+Chichester	946.5	1039.097	6
+Chingford & Woodford Green	984	1753.58	6
+Chippenham	1171.5	1428.815	6
+Chipping Barnet	609	1666.976	6
+Chorley	1021.5	1342.211	6
+Christchurch	646.5	735.983	6
+Cities of London & Westminster	646.5	1775.231	6
+Clacton	1021.5	1515.419	6
+Cleethorpes	1359	1363.862	6
+Clwyd South	1134	1017.446	6
+Clwyd West	571.5	1169.003	6
+Coatbridge, Chryston & Bellshill	534	1147.352	6
+Colchester	609	411.218	6
+Colne Valley	1246.5	1385.513	6
+Congleton	871.5	952.493	6
+Copeland	759	974.144	6
+Corby	684	627.728	6
+Cornwall North	1021.5	1169.003	6
+Cornwall South East	309	1840.184	6
+Cotswolds, The	309	1883.486	6
+Coventry North East	684	1493.768	6
+Coventry North West	834	1147.352	6
+Coventry South	834	1190.654	6
+Crawley	796.5	1212.305	6
+Crewe & Nantwich	984	1710.278	6
+Croydon Central	684	974.144	6
+Croydon North	1059	1666.976	6
+Croydon South	1021.5	1645.325	6
+Cumbernauld, Kilsyth & Kirkintilloch East	1021.5	1688.627	6
+Cynon Valley	609	281.312	6
+Dagenham & Rainham	534	1407.164	6
+Darlington	1246.5	1558.721	6
+Dartford	946.5	649.379	6
+Daventry	1246.5	1602.023	6
+Delyn	834	1233.956	6
+Denton & Reddish	534	1060.748	6
+Derby North	796.5	865.889	6
+Derby South	871.5	1082.399	6
+Derbyshire Dales	909	1104.05	6
+Derbyshire Mid	871.5	1039.097	6
+Derbyshire North East	909	1060.748	6
+Derbyshire South	909	1017.446	6
+Devizes	871.5	1125.701	6
+Devon Central	646.5	1688.627	6
+Devon East	384	1796.882	6
+Devon North	459	1796.882	6
+Devon South West	384	1753.58	6
+Devon West & Torridge	384	1883.486	6
+Dewsbury	346.5	1818.533	6
+Don Valley	946.5	865.889	6
+Doncaster Central	1021.5	909.191	6
+Doncaster North	1059	887.54	6
+Dorset Mid & Poole North	1059	844.238	6
+Dorset North	534	1753.58	6
+Dorset South	571.5	1731.929	6
+Dorset West	571.5	1818.533	6
+Dover	534	1796.882	6
+Down North	1359	1666.976	6
+Down South	196.5	779.285	6
+Dudley North	159	844.238	6
+Dudley South	646.5	1169.003	6
+Dulwich & West Norwood	646.5	1212.305	6
+Dumfries & Galloway	1059	1580.372	6
+Dumfriesshire, Clydesdale & Tweeddale	609	541.124	6
+Dunbartonshire East	684	541.124	6
+Dunbartonshire West	571.5	302.963	6
+Dundee East	571.5	259.661	6
+Dundee West	684	238.01	6
+Dunfermline & Fife West	721.5	259.661	6
+Durham, City of	684	281.312	6
+Durham North	871.5	606.077	6
+Durham North West	834	627.728	6
+Dwyfor Meirionnydd	796.5	606.077	6
+Ealing Central & Acton	496.5	1169.003	6
+Ealing North	909	1450.466	6
+Ealing Southall	871.5	1472.117	6
+Easington	871.5	1515.419	6
+East Ham	946.5	562.775	6
+East Kilbride, Strathaven & Lesmahagow	1209	1493.768	6
+East Lothian	571.5	476.171	6
+Eastbourne	759	411.218	6
+Eastleigh	1246.5	1731.929	6
+Eddisbury	796.5	1775.231	6
+Edinburgh East	609	1017.446	6
+Edinburgh North & Leith	721.5	389.567	6
+Edinburgh South	721.5	432.869	6
+Edinburgh South West	684	454.52	6
+Edinburgh West	684	411.218	6
+Edmonton	684	367.916	6
+Ellesmere Port & Neston	1134	1407.164	6
+Elmet & Rothwell	534	974.144	6
+Eltham	984	714.332	6
+Enfield North	1171.5	1558.721	6
+Enfield Southgate	1096.5	1385.513	6
+Epping Forest	1059	1363.862	6
+Epsom & Ewell	1134	1363.862	6
+Erewash	909	1666.976	6
+Erith & Thamesmead	984	1104.05	6
+Esher & Walton	1209	1580.372	6
+Exeter	834	1623.674	6
+Falkirk	421.5	1818.533	6
+Fareham	646.5	302.963	6
+Faversham & Kent Mid	834	1796.882	6
+Feltham & Heston	1321.5	1645.325	6
+Fermanagh & South Tyrone	871.5	1558.721	6
+Fife North East	46.5	735.983	6
+Filton & Bradley Stoke	759	281.312	6
+Finchley & Golders Green	571.5	1558.721	6
+Folkestone & Hythe	1021.5	1385.513	6
+Forest of Dean	1321.5	1688.627	6
+Foyle	609	1493.768	6
+Fylde	84	671.03	6
+Gainsborough	609	757.634	6
+Garston & Halewood	1134	1060.748	6
+Gateshead	609	974.144	6
+Gedling	871.5	562.775	6
+Gillingham & Rainham	1096.5	1082.399	6
+Glasgow Central	1359	1623.674	6
+Glasgow East	571.5	389.567	6
+Glasgow North	609	367.916	6
+Glasgow North East	571.5	346.265	6
+Glasgow North West	609	324.614	6
+Glasgow South	534	324.614	6
+Glasgow South West	609	454.52	6
+Glenrothes	534	367.916	6
+Gloucester	721.5	302.963	6
+Gordon	646.5	1515.419	6
+Gosport	646.5	173.057	6
+Gower	871.5	1775.231	6
+Grantham & Stamford	384	1493.768	6
+Gravesham	1096.5	1212.305	6
+Great Grimsby	1284	1580.372	6
+Great Yarmouth	1284	1277.258	6
+Greenwich & Woolwich	1171.5	1515.419	6
+Guildford	1134	974.144	6
+Hackney North & Stoke Newington	871.5	1688.627	6
+Hackney South & Shoreditch	1059	1450.466	6
+Halesowen & Rowley Regis	1096.5	1472.117	6
+Halifax	684	1277.258	6
+Haltemprice & Howden	871.5	865.889	6
+Halton	1096.5	822.587	6
+Hammersmith	646.5	952.493	6
+Hampshire East	946.5	1558.721	6
+Hampshire North East	909	1710.278	6
+Hampshire North West	759	1666.976	6
+Hampstead & Kilburn	684	1666.976	6
+Harborough	946.5	1472.117	6
+Harlow	946.5	1212.305	6
+Harrogate & Knaresborough	1096.5	1342.211	6
+Harrow East	1021.5	692.681	6
+Harrow West	946.5	1385.513	6
+Hartlepool	909	1407.164	6
+Harwich & Essex North	984	584.426	6
+Hastings & Rye	1284	1363.862	6
+Havant	1284	1710.278	6
+Hayes & Harlington	946.5	1731.929	6
+Hazel Grove	834	1537.07	6
+Hemel Hempstead	834	974.144	6
+Hemsworth	1059	1277.258	6
+Hendon	1059	800.936	6
+Henley	984	1363.862	6
+Hereford & Herefordshire South	759	1407.164	6
+Herefordshire North	646.5	1428.815	6
+Hertford & Stortford	609	1320.56	6
+Hertfordshire North East	1096.5	1298.909	6
+Hertfordshire South West	1096.5	1255.607	6
+Hertsmere	871.5	1385.513	6
+Hexham	946.5	1342.211	6
+Heywood & Middleton	759	541.124	6
+High Peak	796.5	735.983	6
+Hitchin & Harpenden	871.5	995.795	6
+Holborn & St Pancras	946.5	1298.909	6
+Hornchurch & Upminster	1021.5	1472.117	6
+Hornsey & Wood Green	1284	1537.07	6
+Horsham	984	1450.466	6
+Houghton & Sunderland South	1096.5	1688.627	6
+Hove	909	584.426	6
+Huddersfield	1134	1753.58	6
+Hull East	909	887.54	6
+Hull North	1096.5	909.191	6
+Hull West & Hessle	1096.5	865.889	6
+Huntingdon	1096.5	952.493	6
+Hyndburn	946.5	1255.607	6
+Ilford North	796.5	692.681	6
+Ilford South	1209	1450.466	6
+Inverclyde	1246.5	1472.117	6
+Inverness, Nairn, Badenoch & Strathspey	496.5	346.265	6
+Ipswich	609	194.708	6
+Isle of Wight	1284	1320.56	6
+Islington North	759	1840.184	6
+Islington South & Finsbury	1021.5	1428.815	6
+Islwyn	1059	1493.768	6
+Jarrow	571.5	1385.513	6
+Keighley	871.5	519.473	6
+Kenilworth & Southam	871.5	735.983	6
+Kensington	759	1320.56	6
+Kettering	946.5	1515.419	6
+Kilmarnock & Loudoun	984	1190.654	6
+Kingston & Surbiton	609	497.822	6
+Kingswood	871.5	1645.325	6
+Kirkcaldy & Cowdenbeath	609	1580.372	6
+Knowsley	684	324.614	6
+Lagan Valley	609	887.54	6
+Lanark & Hamilton East	159	800.936	6
+Lancashire West	646.5	476.171	6
+Lancaster & Fleetwood	609	800.936	6
+Leeds Central	796.5	649.379	6
+Leeds East	909	800.936	6
+Leeds North East	1021.5	822.587	6
+Leeds North West	984	800.936	6
+Leeds West	946.5	779.285	6
+Leicester East	946.5	735.983	6
+Leicester South	946.5	1169.003	6
+Leicester West	909	1233.956	6
+Leicestershire North West	909	1190.654	6
+Leicestershire South	909	1147.352	6
+Leigh	871.5	1212.305	6
+Lewes	646.5	865.889	6
+Lewisham Deptford	1209	1710.278	6
+Lewisham East	1134	1537.07	6
+Lewisham West & Penge	1096.5	1602.023	6
+Leyton & Wanstead	1059	1623.674	6
+Lichfield	1134	1450.466	6
+Lincoln	796.5	1039.097	6
+Linlithgow & Falkirk East	1096.5	1125.701	6
+Liverpool Riverside	646.5	346.265	6
+Liverpool Walton	571.5	995.795	6
+Liverpool Wavertree	571.5	865.889	6
+Liverpool West Derby	571.5	952.493	6
+Livingston	571.5	909.191	6
+Llanelli	684	497.822	6
+Londonderry East	384	1450.466	6
+Loughborough	121.5	649.379	6
+Louth & Horncastle	946.5	1125.701	6
+Ludlow	1134	1104.05	6
+Luton North	609	1233.956	6
+Luton South	871.5	1342.211	6
+Macclesfield	909	1320.56	6
+Maidenhead	796.5	952.493	6
+Maidstone & The Weald	759	1580.372	6
+Makerfield	1284	1623.674	6
+Maldon	646.5	822.587	6
+Manchester Central	1359	1407.164	6
+Manchester Gorton	759	844.238	6
+Manchester Withington	684	844.238	6
+Mansfield	759	887.54	6
+Meon Valley	1021.5	995.795	6
+Meriden	834	1753.58	6
+Merthyr Tydfil & Rhymney	796.5	1169.003	6
+Middlesbrough	534	1363.862	6
+Middlesbrough South & Cleveland East	984	627.728	6
+Midlothian	1021.5	649.379	6
+Milton Keynes North	721.5	519.473	6
+Milton Keynes South	796.5	1385.513	6
+Mitcham & Morden	796.5	1428.815	6
+Mole Valley	946.5	1645.325	6
+Monmouth	834	1666.976	6
+Montgomeryshire	609	1407.164	6
+Moray	571.5	1212.305	6
+Morecambe & Lunesdale	646.5	216.359	6
+Morley & Outwood	721.5	649.379	6
+Motherwell & Wishaw	984	844.238	6
+Na h-Eileanan an Iar (Western Isles)	646.5	432.869	6
+Neath	496.5	173.057	6
+New Forest East	459	1407.164	6
+New Forest West	684	1753.58	6
+Newark	684	1796.882	6
+Newbury	1096.5	1039.097	6
+Newcastle-under-Lyme	684	1623.674	6
+Newcastle upon Tyne Central	796.5	562.775	6
+Newcastle upon Tyne East	834	584.426	6
+Newcastle upon Tyne North	796.5	519.473	6
+Newport East	609	1060.748	6
+Newport West	609	1450.466	6
+Newry & Armagh	571.5	1515.419	6
+Newton Abbot	84	800.936	6
+Norfolk Mid	459	1840.184	6
+Norfolk North	1021.5	1212.305	6
+Norfolk North West	1246.5	1255.607	6
+Norfolk South	1171.5	1212.305	6
+Norfolk South West	1246.5	1298.909	6
+Normanton, Pontefract & Castleford	1134	1277.258	6
+Northampton North	984	757.634	6
+Northampton South	834	1277.258	6
+Northamptonshire South 	834	1320.56	6
+Norwich North	796.5	1342.211	6
+Norwich South	1171.5	1255.607	6
+Nottingham East	1209	1277.258	6
+Nottingham North	1059	1104.05	6
+Nottingham South	1059	1060.748	6
+Nuneaton	1021.5	1125.701	6
+Ochil & South Perthshire	834	1104.05	6
+Ogmore	646.5	259.661	6
+Old Bexley & Sidcup	459	1493.768	6
+Oldham East & Saddleworth	1209	1537.07	6
+Oldham West & Royton	834	887.54	6
+Orkney & Shetland	796.5	779.285	6
+Orpington	684	64.802	6
+Oxford East	1134	1623.674	6
+Oxford West & Abingdon	759	1537.07	6
+Paisley & Renfrewshire North	721.5	1558.721	6
+Paisley & Renfrewshire South	534	281.312	6
+Pendle	534	411.218	6
+Penistone & Stocksbridge	834	714.332	6
+Penrith & The Border	909	974.144	6
+Perth & North Perthshire	721.5	562.775	6
+Peterborough	609	238.01	6
+Plymouth Moor View	1059	1233.956	6
+Plymouth Sutton & Devonport	384	1840.184	6
+Pontypridd	346.5	1861.835	6
+Poole	496.5	1428.815	6
+Poplar & Limehouse	571.5	1775.231	6
+Portsmouth North	1096.5	1515.419	6
+Portsmouth South	871.5	1731.929	6
+Preseli Pembrokeshire	909	1753.58	6
+Preston	346.5	1428.815	6
+Pudsey	684	714.332	6
+Putney	909	714.332	6
+Rayleigh & Wickford	909	1580.372	6
+Reading East	1284	1407.164	6
+Reading West	721.5	1602.023	6
+Redcar	721.5	1645.325	6
+Redditch	1021.5	606.077	6
+Reigate	684	1363.862	6
+Renfrewshire East	946.5	1688.627	6
+Rhondda	571.5	432.869	6
+South Ribble	496.5	1385.513	6
+Ribble Valley	571.5	822.587	6
+Richmond (Yorks)	834	671.03	6
+Richmond Park	909	671.03	6
+Rochdale	909	1537.07	6
+Rochester & Strood	834	844.238	6
+Rochford & Southend East	1321.5	1558.721	6
+Romford	1359	1450.466	6
+Romsey & Southampton North	1284	1493.768	6
+Ross, Skye & Lochaber	684	1710.278	6
+Rossendale & Darwen	571.5	173.057	6
+Rotherham	834	800.936	6
+Rother Valley	1059	974.144	6
+Rugby	984	887.54	6
+Ruislip, Northwood & Pinner	796.5	1255.607	6
+Runnymede & Weybridge	871.5	1428.815	6
+Rushcliffe	796.5	1558.721	6
+Rutherglen & Hamilton West	1059	1147.352	6
+Rutland & Melton	646.5	519.473	6
+Saffron Walden	1059	1190.654	6
+Salford & Eccles	1209	1407.164	6
+Salisbury	721.5	822.587	6
+Scarborough & Whitby	646.5	1731.929	6
+Scunthorpe	1059	714.332	6
+Sedgefield	1096.5	995.795	6
+Sefton Central	909	627.728	6
+Selby & Ainsty	534	887.54	6
+Sevenoaks	1021.5	735.983	6
+Sheffield Brightside & Hillsborough	1171.5	1645.325	6
+Sheffield Central	984	930.842	6
+Sheffield Hallam	946.5	952.493	6
+Sheffield Heeley	946.5	995.795	6
+Sheffield South East	984	974.144	6
+Sherwood	1021.5	952.493	6
+Shipley	1021.5	1039.097	6
+Shrewsbury & Atcham	946.5	692.681	6
+Shropshire North	609	1147.352	6
+Sittingbourne & Sheppey	609	1104.05	6
+Skipton & Ripon	1359	1580.372	6
+Sleaford & North Hykeham	871.5	692.681	6
+Slough	1096.5	1169.003	6
+Solihull	796.5	1515.419	6
+Somerset North	759	1277.258	6
+Somerset North East	496.5	1645.325	6
+Somerton & Frome	571.5	1688.627	6
+Southampton Itchen	496.5	1731.929	6
+Southampton Test	1134	1190.654	6
+Southend West	909	497.822	6
+South Holland & The Deepings	759	1753.58	6
+Southport	721.5	1775.231	6
+South Shields	1321.5	1428.815	6
+Spelthorne	534	844.238	6
+Stafford	796.5	1602.023	6
+Staffordshire Moorlands	1021.5	1298.909	6
+Staffordshire South	271.5	1861.835	6
+St Albans	609	844.238	6
+Stalybridge & Hyde	609	930.842	6
+St Austell & Newquay	196.5	1905.137	6
+Stevenage	759	1060.748	6
+St Helens North	721.5	995.795	6
+St Helens South & Whiston	646.5	1082.399	6
+Stirling	834	930.842	6
+St Ives	984	1277.258	6
+Stockport	571.5	216.359	6
+Stockton North	796.5	909.191	6
+Stockton South	946.5	606.077	6
+Stoke-on-Trent Central	984	671.03	6
+Stoke-on-Trent North	684	1017.446	6
+Stoke-on-Trent South	646.5	1039.097	6
+Stone	684	1060.748	6
+Stourbridge	759	1017.446	6
+Strangford	646.5	1298.909	6
+Stratford-on-Avon	196.5	822.587	6
+Streatham	759	1363.862	6
+Stretford & Urmston	1021.5	1602.023	6
+Stroud	684	800.936	6
+Suffolk Central & Ipswich North	646.5	1558.721	6
+Suffolk Coastal	1321.5	1342.211	6
+Suffolk South	1359	1320.56	6
+Suffolk West	1246.5	1342.211	6
+Sunderland Central	1171.5	1298.909	6
+Surrey East	946.5	519.473	6
+Surrey Heath	1134	1666.976	6
+Surrey South West	796.5	1645.325	6
+Sussex Mid	834	1710.278	6
+Sutton & Cheam	1171.5	1688.627	6
+Sutton Coldfield	909	1623.674	6
+Swansea East	796.5	1125.701	6
+Swansea West	421.5	1515.419	6
+Swindon North	421.5	1472.117	6
+Swindon South	684	1537.07	6
+Tamworth	646.5	1602.023	6
+Tatton	834	1017.446	6
+Taunton Deane	721.5	952.493	6
+Telford	421.5	1775.231	6
+Tewkesbury	646.5	1125.701	6
+Thanet North	646.5	1472.117	6
+Thanet South	1434	1623.674	6
+Thirsk & Malton	1396.5	1645.325	6
+Thornbury & Yate	1096.5	779.285	6
+Thurrock	609	1537.07	6
+Tiverton & Honiton	1321.5	1515.419	6
+Tonbridge & Malling	496.5	1775.231	6
+Tooting	1209	1623.674	6
+Torbay	984	1623.674	6
+Torfaen	421.5	1861.835	6
+Totnes	609	1363.862	6
+Tottenham	421.5	1905.137	6
+Truro & Falmouth	1059	1407.164	6
+Tunbridge Wells	271.5	1905.137	6
+Twickenham	1246.5	1645.325	6
+Tynemouth	871.5	1602.023	6
+Tyneside North	871.5	476.171	6
+Tyrone West	834	541.124	6
+Ulster Mid	46.5	692.681	6
+Upper Bann	84	714.332	6
+Uxbridge & Ruislip South	121.5	822.587	6
+Vale of Clwyd	834	1493.768	6
+Vale of Glamorgan	534	1104.05	6
+Vauxhall	496.5	1515.419	6
+Wakefield	1021.5	1558.721	6
+Wallasey	946.5	822.587	6
+Walsall North	496.5	995.795	6
+Walsall South	721.5	1082.399	6
+Walthamstow	721.5	1125.701	6
+Wansbeck	1096.5	1428.815	6
+Wantage	796.5	476.171	6
+Warley	684	1580.372	6
+Warrington North	684	1190.654	6
+Warrington South	646.5	909.191	6
+Warwick & Leamington	684	930.842	6
+Warwickshire North	796.5	1298.909	6
+Washington & Sunderland West	834	1060.748	6
+Watford	909	541.124	6
+Waveney	909	1363.862	6
+Wealden	1321.5	1298.909	6
+Weaver Vale	1209	1666.976	6
+Wellingborough	646.5	995.795	6
+Wells	871.5	1255.607	6
+Welwyn Hatfield	459	1710.278	6
+Wentworth & Dearne	984	1320.56	6
+West Bromwich East	1021.5	865.889	6
+West Bromwich West	721.5	1169.003	6
+West Ham	646.5	1255.607	6
+Westminster North	1171.5	1472.117	6
+Westmorland & Lonsdale	984	1493.768	6
+Weston-Super-Mare	759	627.728	6
+Wigan	496.5	1688.627	6
+Wiltshire North	646.5	779.285	6
+Wiltshire South West	646.5	1645.325	6
+Wimbledon	534	1710.278	6
+Winchester	946.5	1602.023	6
+Windsor	796.5	1731.929	6
+Wirral South	834	1580.372	6
+Wirral West	534	1017.446	6
+Witham	496.5	1039.097	6
+Witney	1321.5	1385.513	6
+Woking	721.5	1472.117	6
+Wokingham	796.5	1688.627	6
+Wolverhampton North East	721.5	1688.627	6
+Wolverhampton South East	721.5	1039.097	6
+Wolverhampton South West	684	1147.352	6
+Worcester	684	1104.05	6
+Worcestershire Mid	646.5	1385.513	6
+Worcestershire West	721.5	1385.513	6
+Workington	684	1407.164	6
+Worsley & Eccles South	684	584.426	6
+Worthing East & Shoreham	684	887.54	6
+Worthing West	1096.5	1731.929	6
+Wrekin, The	1059	1753.58	6
+Wrexham	609	1190.654	6
+Wycombe	571.5	1125.701	6
+Wyre & Preston North	759	1493.768	6
+Wyre Forest	759	671.03	6
+Wythenshawe & Sale East	609	1277.258	6
+Yeovil	721.5	865.889	6
+Ynys Mon	459	1753.58	6
+York Central	421.5	1082.399	6
+York Outer	1021.5	779.285	6
+Yorkshire East	1059	757.634	6

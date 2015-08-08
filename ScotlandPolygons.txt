@@ -1,0 +1,355 @@
+Constituency	x	order	y
+Aberdeen North	734	1	151.406
+Aberdeen South	771.5	1	173.057
+West Aberdeenshire & Kincardine	696.5	1	173.057
+Airdrie & Shotts	659	1	367.916
+Angus	734	1	194.708
+Argyll & Bute	546.5	1	216.359
+Ayr, Carrick & Cumnock	584	1	497.822
+Central Ayrshire	546.5	1	476.171
+North Ayrshire & Arran	546.5	1	432.869
+Banff & Buchan	696.5	1	129.755
+Berwickshire, Roxburgh & Selkirk	734	1	454.52
+Caithness, Sutherland & Easter Ross	584	1	108.104
+Coatbridge, Chryston & Bellshill	621.5	1	389.567
+Cumbernauld, Kilsyth & Kirkintilloch East	621.5	1	259.661
+Dumfries & Galloway	621.5	1	519.473
+Dumfriesshire, Clydesdale & Tweeddale	696.5	1	519.473
+East Dunbartonshire	584	1	281.312
+West Dunbartonshire	584	1	238.01
+Dundee East	696.5	1	216.359
+Dundee West	734	1	238.01
+Dunfermline & West Fife	696.5	1	259.661
+East Kilbride, Strathaven & Lesmahagow	584	1	454.52
+East Lothian	771.5	1	389.567
+Edinburgh East	734	1	367.916
+Edinburgh North & Leith	734	1	411.218
+Edinburgh South	696.5	1	432.869
+Edinburgh South West	696.5	1	389.567
+Edinburgh West	696.5	1	346.265
+Falkirk	659	1	281.312
+North East Fife	771.5	1	259.661
+Glasgow Central	584	1	367.916
+Glasgow East	621.5	1	346.265
+Glasgow North	584	1	324.614
+Glasgow North East	621.5	1	302.963
+Glasgow North West	546.5	1	302.963
+Glasgow South	621.5	1	432.869
+Glasgow South West	546.5	1	346.265
+Glenrothes	734	1	281.312
+Gordon	659	1	151.406
+Inverclyde	509	1	324.614
+Inverness, Nairn, Badenoch & Strathspey	621.5	1	173.057
+Kilmarnock & Loudoun	621.5	1	476.171
+Kirkcaldy & Cowdenbeath	696.5	1	302.963
+Lanark & Hamilton East	659	1	454.52
+Linlithgow & East Falkirk	659	1	324.614
+Livingston	696.5	1	476.171
+Midlothian	734	1	497.822
+Moray	659	1	194.708
+Motherwell & Wishaw	659	1	411.218
+Na h-Eileanan an Iar	509	1	151.406
+Ochil & South Perthshire	659	1	238.01
+Orkney & Shetland	696.5	1	43.151
+Paisley & Renfrewshire North	546.5	1	259.661
+Paisley & Renfrewshire South	546.5	1	389.567
+Perth & North Perthshire	621.5	1	216.359
+East Renfrewshire	584	1	411.218
+Ross, Skye & Lochaber	584	1	151.406
+Rutherglen & Hamilton West	659	1	497.822
+Stirling	584	1	194.708
+Aberdeen North	721.5	2	129.755
+Aberdeen South	759	2	151.406
+West Aberdeenshire & Kincardine	684	2	151.406
+Airdrie & Shotts	646.5	2	346.265
+Angus	721.5	2	173.057
+Argyll & Bute	534	2	194.708
+Ayr, Carrick & Cumnock	571.5	2	476.171
+Central Ayrshire	534	2	454.52
+North Ayrshire & Arran	534	2	411.218
+Banff & Buchan	684	2	108.104
+Berwickshire, Roxburgh & Selkirk	721.5	2	432.869
+Caithness, Sutherland & Easter Ross	571.5	2	86.453
+Coatbridge, Chryston & Bellshill	609	2	367.916
+Cumbernauld, Kilsyth & Kirkintilloch East	609	2	238.01
+Dumfries & Galloway	609	2	497.822
+Dumfriesshire, Clydesdale & Tweeddale	684	2	497.822
+East Dunbartonshire	571.5	2	259.661
+West Dunbartonshire	571.5	2	216.359
+Dundee East	684	2	194.708
+Dundee West	721.5	2	216.359
+Dunfermline & West Fife	684	2	238.01
+East Kilbride, Strathaven & Lesmahagow	571.5	2	432.869
+East Lothian	759	2	367.916
+Edinburgh East	721.5	2	346.265
+Edinburgh North & Leith	721.5	2	389.567
+Edinburgh South	684	2	411.218
+Edinburgh South West	684	2	367.916
+Edinburgh West	684	2	324.614
+Falkirk	646.5	2	259.661
+North East Fife	759	2	238.01
+Glasgow Central	571.5	2	346.265
+Glasgow East	609	2	324.614
+Glasgow North	571.5	2	302.963
+Glasgow North East	609	2	281.312
+Glasgow North West	534	2	281.312
+Glasgow South	609	2	411.218
+Glasgow South West	534	2	324.614
+Glenrothes	721.5	2	259.661
+Gordon	646.5	2	129.755
+Inverclyde	496.5	2	302.963
+Inverness, Nairn, Badenoch & Strathspey	609	2	151.406
+Kilmarnock & Loudoun	609	2	454.52
+Kirkcaldy & Cowdenbeath	684	2	281.312
+Lanark & Hamilton East	646.5	2	432.869
+Linlithgow & East Falkirk	646.5	2	302.963
+Livingston	684	2	454.52
+Midlothian	721.5	2	476.171
+Moray	646.5	2	173.057
+Motherwell & Wishaw	646.5	2	389.567
+Na h-Eileanan an Iar	496.5	2	129.755
+Ochil & South Perthshire	646.5	2	216.359
+Orkney & Shetland	684	2	21.5
+Paisley & Renfrewshire North	534	2	238.01
+Paisley & Renfrewshire South	534	2	367.916
+Perth & North Perthshire	609	2	194.708
+East Renfrewshire	571.5	2	389.567
+Ross, Skye & Lochaber	571.5	2	129.755
+Rutherglen & Hamilton West	646.5	2	476.171
+Stirling	571.5	2	173.057
+Aberdeen North	696.5	3	129.755
+Aberdeen South	734	3	151.406
+West Aberdeenshire & Kincardine	659	3	151.406
+Airdrie & Shotts	621.5	3	346.265
+Angus	696.5	3	173.057
+Argyll & Bute	509	3	194.708
+Ayr, Carrick & Cumnock	546.5	3	476.171
+Central Ayrshire	509	3	454.52
+North Ayrshire & Arran	509	3	411.218
+Banff & Buchan	659	3	108.104
+Berwickshire, Roxburgh & Selkirk	696.5	3	432.869
+Caithness, Sutherland & Easter Ross	546.5	3	86.453
+Coatbridge, Chryston & Bellshill	584	3	367.916
+Cumbernauld, Kilsyth & Kirkintilloch East	584	3	238.01
+Dumfries & Galloway	584	3	497.822
+Dumfriesshire, Clydesdale & Tweeddale	659	3	497.822
+East Dunbartonshire	546.5	3	259.661
+West Dunbartonshire	546.5	3	216.359
+Dundee East	659	3	194.708
+Dundee West	696.5	3	216.359
+Dunfermline & West Fife	659	3	238.01
+East Kilbride, Strathaven & Lesmahagow	546.5	3	432.869
+East Lothian	734	3	367.916
+Edinburgh East	696.5	3	346.265
+Edinburgh North & Leith	696.5	3	389.567
+Edinburgh South	659	3	411.218
+Edinburgh South West	659	3	367.916
+Edinburgh West	659	3	324.614
+Falkirk	621.5	3	259.661
+North East Fife	734	3	238.01
+Glasgow Central	546.5	3	346.265
+Glasgow East	584	3	324.614
+Glasgow North	546.5	3	302.963
+Glasgow North East	584	3	281.312
+Glasgow North West	509	3	281.312
+Glasgow South	584	3	411.218
+Glasgow South West	509	3	324.614
+Glenrothes	696.5	3	259.661
+Gordon	621.5	3	129.755
+Inverclyde	471.5	3	302.963
+Inverness, Nairn, Badenoch & Strathspey	584	3	151.406
+Kilmarnock & Loudoun	584	3	454.52
+Kirkcaldy & Cowdenbeath	659	3	281.312
+Lanark & Hamilton East	621.5	3	432.869
+Linlithgow & East Falkirk	621.5	3	302.963
+Livingston	659	3	454.52
+Midlothian	696.5	3	476.171
+Moray	621.5	3	173.057
+Motherwell & Wishaw	621.5	3	389.567
+Na h-Eileanan an Iar	471.5	3	129.755
+Ochil & South Perthshire	621.5	3	216.359
+Orkney & Shetland	659	3	21.5
+Paisley & Renfrewshire North	509	3	238.01
+Paisley & Renfrewshire South	509	3	367.916
+Perth & North Perthshire	584	3	194.708
+East Renfrewshire	546.5	3	389.567
+Ross, Skye & Lochaber	546.5	3	129.755
+Rutherglen & Hamilton West	621.5	3	476.171
+Stirling	546.5	3	173.057
+Aberdeen North	684	4	151.406
+Aberdeen South	721.5	4	173.057
+West Aberdeenshire & Kincardine	646.5	4	173.057
+Airdrie & Shotts	609	4	367.916
+Angus	684	4	194.708
+Argyll & Bute	496.5	4	216.359
+Ayr, Carrick & Cumnock	534	4	497.822
+Central Ayrshire	496.5	4	476.171
+North Ayrshire & Arran	496.5	4	432.869
+Banff & Buchan	646.5	4	129.755
+Berwickshire, Roxburgh & Selkirk	684	4	454.52
+Caithness, Sutherland & Easter Ross	534	4	108.104
+Coatbridge, Chryston & Bellshill	571.5	4	389.567
+Cumbernauld, Kilsyth & Kirkintilloch East	571.5	4	259.661
+Dumfries & Galloway	571.5	4	519.473
+Dumfriesshire, Clydesdale & Tweeddale	646.5	4	519.473
+East Dunbartonshire	534	4	281.312
+West Dunbartonshire	534	4	238.01
+Dundee East	646.5	4	216.359
+Dundee West	684	4	238.01
+Dunfermline & West Fife	646.5	4	259.661
+East Kilbride, Strathaven & Lesmahagow	534	4	454.52
+East Lothian	721.5	4	389.567
+Edinburgh East	684	4	367.916
+Edinburgh North & Leith	684	4	411.218
+Edinburgh South	646.5	4	432.869
+Edinburgh South West	646.5	4	389.567
+Edinburgh West	646.5	4	346.265
+Falkirk	609	4	281.312
+North East Fife	721.5	4	259.661
+Glasgow Central	534	4	367.916
+Glasgow East	571.5	4	346.265
+Glasgow North	534	4	324.614
+Glasgow North East	571.5	4	302.963
+Glasgow North West	496.5	4	302.963
+Glasgow South	571.5	4	432.869
+Glasgow South West	496.5	4	346.265
+Glenrothes	684	4	281.312
+Gordon	609	4	151.406
+Inverclyde	459	4	324.614
+Inverness, Nairn, Badenoch & Strathspey	571.5	4	173.057
+Kilmarnock & Loudoun	571.5	4	476.171
+Kirkcaldy & Cowdenbeath	646.5	4	302.963
+Lanark & Hamilton East	609	4	454.52
+Linlithgow & East Falkirk	609	4	324.614
+Livingston	646.5	4	476.171
+Midlothian	684	4	497.822
+Moray	609	4	194.708
+Motherwell & Wishaw	609	4	411.218
+Na h-Eileanan an Iar	459	4	151.406
+Ochil & South Perthshire	609	4	238.01
+Orkney & Shetland	646.5	4	43.151
+Paisley & Renfrewshire North	496.5	4	259.661
+Paisley & Renfrewshire South	496.5	4	389.567
+Perth & North Perthshire	571.5	4	216.359
+East Renfrewshire	534	4	411.218
+Ross, Skye & Lochaber	534	4	151.406
+Rutherglen & Hamilton West	609	4	497.822
+Stirling	534	4	194.708
+Aberdeen North	696.5	5	173.057
+Aberdeen South	734	5	194.708
+West Aberdeenshire & Kincardine	659	5	194.708
+Airdrie & Shotts	621.5	5	389.567
+Angus	696.5	5	216.359
+Argyll & Bute	509	5	238.01
+Ayr, Carrick & Cumnock	546.5	5	519.473
+Central Ayrshire	509	5	497.822
+North Ayrshire & Arran	509	5	454.52
+Banff & Buchan	659	5	151.406
+Berwickshire, Roxburgh & Selkirk	696.5	5	476.171
+Caithness, Sutherland & Easter Ross	546.5	5	129.755
+Coatbridge, Chryston & Bellshill	584	5	411.218
+Cumbernauld, Kilsyth & Kirkintilloch East	584	5	281.312
+Dumfries & Galloway	584	5	541.124
+Dumfriesshire, Clydesdale & Tweeddale	659	5	541.124
+East Dunbartonshire	546.5	5	302.963
+West Dunbartonshire	546.5	5	259.661
+Dundee East	659	5	238.01
+Dundee West	696.5	5	259.661
+Dunfermline & West Fife	659	5	281.312
+East Kilbride, Strathaven & Lesmahagow	546.5	5	476.171
+East Lothian	734	5	411.218
+Edinburgh East	696.5	5	389.567
+Edinburgh North & Leith	696.5	5	432.869
+Edinburgh South	659	5	454.52
+Edinburgh South West	659	5	411.218
+Edinburgh West	659	5	367.916
+Falkirk	621.5	5	302.963
+North East Fife	734	5	281.312
+Glasgow Central	546.5	5	389.567
+Glasgow East	584	5	367.916
+Glasgow North	546.5	5	346.265
+Glasgow North East	584	5	324.614
+Glasgow North West	509	5	324.614
+Glasgow South	584	5	454.52
+Glasgow South West	509	5	367.916
+Glenrothes	696.5	5	302.963
+Gordon	621.5	5	173.057
+Inverclyde	471.5	5	346.265
+Inverness, Nairn, Badenoch & Strathspey	584	5	194.708
+Kilmarnock & Loudoun	584	5	497.822
+Kirkcaldy & Cowdenbeath	659	5	324.614
+Lanark & Hamilton East	621.5	5	476.171
+Linlithgow & East Falkirk	621.5	5	346.265
+Livingston	659	5	497.822
+Midlothian	696.5	5	519.473
+Moray	621.5	5	216.359
+Motherwell & Wishaw	621.5	5	432.869
+Na h-Eileanan an Iar	471.5	5	173.057
+Ochil & South Perthshire	621.5	5	259.661
+Orkney & Shetland	659	5	64.802
+Paisley & Renfrewshire North	509	5	281.312
+Paisley & Renfrewshire South	509	5	411.218
+Perth & North Perthshire	584	5	238.01
+East Renfrewshire	546.5	5	432.869
+Ross, Skye & Lochaber	546.5	5	173.057
+Rutherglen & Hamilton West	621.5	5	519.473
+Stirling	546.5	5	216.359
+Aberdeen North	721.5	6	173.057
+Aberdeen South	759	6	194.708
+West Aberdeenshire & Kincardine	684	6	194.708
+Airdrie & Shotts	646.5	6	389.567
+Angus	721.5	6	216.359
+Argyll & Bute	534	6	238.01
+Ayr, Carrick & Cumnock	571.5	6	519.473
+Central Ayrshire	534	6	497.822
+North Ayrshire & Arran	534	6	454.52
+Banff & Buchan	684	6	151.406
+Berwickshire, Roxburgh & Selkirk	721.5	6	476.171
+Caithness, Sutherland & Easter Ross	571.5	6	129.755
+Coatbridge, Chryston & Bellshill	609	6	411.218
+Cumbernauld, Kilsyth & Kirkintilloch East	609	6	281.312
+Dumfries & Galloway	609	6	541.124
+Dumfriesshire, Clydesdale & Tweeddale	684	6	541.124
+East Dunbartonshire	571.5	6	302.963
+West Dunbartonshire	571.5	6	259.661
+Dundee East	684	6	238.01
+Dundee West	721.5	6	259.661
+Dunfermline & West Fife	684	6	281.312
+East Kilbride, Strathaven & Lesmahagow	571.5	6	476.171
+East Lothian	759	6	411.218
+Edinburgh East	721.5	6	389.567
+Edinburgh North & Leith	721.5	6	432.869
+Edinburgh South	684	6	454.52
+Edinburgh South West	684	6	411.218
+Edinburgh West	684	6	367.916
+Falkirk	646.5	6	302.963
+North East Fife	759	6	281.312
+Glasgow Central	571.5	6	389.567
+Glasgow East	609	6	367.916
+Glasgow North	571.5	6	346.265
+Glasgow North East	609	6	324.614
+Glasgow North West	534	6	324.614
+Glasgow South	609	6	454.52
+Glasgow South West	534	6	367.916
+Glenrothes	721.5	6	302.963
+Gordon	646.5	6	173.057
+Inverclyde	496.5	6	346.265
+Inverness, Nairn, Badenoch & Strathspey	609	6	194.708
+Kilmarnock & Loudoun	609	6	497.822
+Kirkcaldy & Cowdenbeath	684	6	324.614
+Lanark & Hamilton East	646.5	6	476.171
+Linlithgow & East Falkirk	646.5	6	346.265
+Livingston	684	6	497.822
+Midlothian	721.5	6	519.473
+Moray	646.5	6	216.359
+Motherwell & Wishaw	646.5	6	432.869
+Na h-Eileanan an Iar	496.5	6	173.057
+Ochil & South Perthshire	646.5	6	259.661
+Orkney & Shetland	684	6	64.802
+Paisley & Renfrewshire North	534	6	281.312
+Paisley & Renfrewshire South	534	6	411.218
+Perth & North Perthshire	609	6	238.01
+East Renfrewshire	571.5	6	432.869
+Ross, Skye & Lochaber	571.5	6	173.057
+Rutherglen & Hamilton West	646.5	6	519.473
+Stirling	571.5	6	216.359
